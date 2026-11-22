@@ -1,0 +1,218 @@
+{
+  "de-shop": {
+    "title": "뉘른베르크 견습 작업장",
+    "by": "독일역사박물관 · 1900년 이후",
+    "location": "사진 · 전시 도록 1/78",
+    "url": "https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_78.htm",
+    "about": "기계공 견습생들이 기업의 작업장에서 훈련받는 모습을 담았다. 같은 기업의 제도실 사진과 나란히 보면 손으로 기계를 다루는 일과 도면을 읽는 일이 각각 어디에서 이루어졌는지 보인다.",
+    "check": "작업대의 배치와 견습생들이 서 있는 위치를 찾는다."
+  },
+  "de-draw": {
+    "title": "뉘른베르크 견습학교 제도실",
+    "by": "독일역사박물관 · 1908",
+    "location": "사진 · 전시 도록 1/79",
+    "url": "https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_79.htm",
+    "about": "기업 견습학교의 제도 수업을 기록한 사진이다. 박물관 해설에는 학교의 개교 연도와 국가 감독에 관한 설명이 있어 사진만으로 알기 어려운 운영 주체를 확인할 수 있다.",
+    "check": "제도판을 먼저 보여 준 뒤, 해설에서 기업과 국가가 각각 맡은 일을 짚는다."
+  },
+  "au-photo": {
+    "title": "어스킨빌 제화학교 재단실",
+    "by": "뉴사우스웨일스 정부 인쇄소 · 1909",
+    "location": "사진 · 기념 간행물 264쪽",
+    "url": "https://commons.wikimedia.org/wiki/File:Bootmaking_class_in_the_pattern_cutting_and_clicking_room,_Erskineville_Bootmaking_School_1909.png",
+    "about": "기술교육 25주년 간행물에 실린 제화 수업 사진이다. 신발 한 켤레를 만드는 여러 공정 가운데 본을 뜨고 가죽을 재단하는 작업을 학교에서 가르쳤다.",
+    "check": "사진의 긴 작업대와 학생 손 앞의 재료를 짚고, 이 학교가 기록된 주의 이름을 말한다."
+  },
+  "us-photo": {
+    "title": "터스키기 인스티튜트의 기계제도 수업",
+    "by": "미국 의회도서관 · 1902년경",
+    "location": "사진 · LC-DIG-ds-05694",
+    "url": "https://www.loc.gov/item/2014646488/",
+    "about": "프랜시스 벤저민 존스턴이 촬영한 앨라배마 터스키기 인스티튜트의 교실이다. 소장 기록은 교사 월리스 A. 레이필드와 수업 내용을 식별한다.",
+    "check": "칠판과 학생들의 제도판을 찾는다. 촬영 시점과 1917년 연방법 제정 시점을 비교한다."
+  },
+  "bremen": {
+    "title": "브레멘 직업훈련위원회 설치 기록",
+    "by": "서독 연방의회 · 1970",
+    "location": "의회 문서 VI/778 · 1쪽",
+    "url": "https://dserver.bundestag.de/btd/06/007/0600778.pdf#page=1",
+    "about": "연방의회에 제출된 답변은 지역별 집행 상황을 기록한다. 브레멘 항목은 위원회 설치를 결정한 때와 첫 회의를 연 때를 각각 적었다.",
+    "check": "Bremen에서 1969년 12월과 1970년 2월에 대응하는 동사를 찾는다."
+  },
+  "ulmer": {
+    "title": "독일 직종별 훈련기준의 제정 절차",
+    "by": "Ulmer 외 · BIBB · 2021",
+    "location": "비교연구 · 인쇄 19쪽, PDF 20쪽",
+    "url": "https://www.bibb.de/dienst/publikationen/download/17504#page=20",
+    "about": "여러 나라의 국가 훈련기준 개발 절차를 비교한 연구다. 독일 사례에서는 노사 전문가가 기업훈련규정 초안을, 주 전문가가 직업학교 교육과정 초안을 마련하는 과정을 따라갈 수 있다.",
+    "check": "독일 절차 (6)–(7)에서 두 초안을 누가 작성하고 어디에서 조정하는지 표시한다."
+  },
+  "gesetz": {
+    "title": "독일 직업교육훈련의 법적 틀",
+    "by": "독일 연방직업교육훈련연구소(BIBB)",
+    "location": "제도 해설 · BBiG 개정 연혁",
+    "url": "https://www.bibb.de/en/146370.php",
+    "about": "독일 직업교육훈련법의 역할과 개정 연혁을 해설한다. 기업에서 이루어지는 훈련과 주가 관할하는 학교 교육의 책임을 설명할 때 읽을 자료다.",
+    "check": "1969년 제정, 2005년 전면 개정, 2020년 개정법 시행을 구별한다."
+  },
+  "exam": {
+    "title": "직업교육훈련법의 종결시험 규정",
+    "by": "독일 연방교육연구부 · 영문 번역",
+    "location": "법령 · 제38조",
+    "url": "https://www.bibb.de/dokumente/pdf/bmbf_The_new_Vocational_Training_Act.pdf",
+    "about": "제38조는 종결시험에서 확인할 직업수행능력의 범위를 정한다. 응시자가 갖춰야 할 기능과 지식, 학교에서 배운 내용이 시험과 어떻게 이어지는지 읽을 수 있다.",
+    "check": "문서에서 ‘Section 38’을 찾아 시험의 대상이 되는 능력을 자신의 말로 정리한다."
+  },
+  "bibb18": {
+    "title": "금속·전기·메카트로닉스 직종의 디지털화",
+    "by": "BIBB · 2018년 개정 사례",
+    "location": "직종 자료 · 산업계 훈련규정",
+    "url": "https://www.bibb.de/de/129499.php",
+    "about": "기존 산업 직종의 훈련규정에 디지털 작업과 정보보호를 반영한 사례다. 새 기술을 교육에 넣기 위해 직종의 기준을 어떻게 고쳤는지 보여 준다.",
+    "check": "해당 직종 목록과 공통 내용에 들어간 디지털 역량을 하나씩 찾는다."
+  },
+  "goozee": {
+    "title": "호주 TAFE의 발전",
+    "by": "Gillian Goozee · NCVER · 2001",
+    "location": "제도사 · 25–27쪽",
+    "url": "https://www.ncver.edu.au/sites/default/files/ncver-documents/development-of-tafe-in-australia-574.pdf#page=27",
+    "about": "호주 공공 기술·계속교육(TAFE)의 역사를 정리했다. 27쪽에 재수록된 장관 발언은 캉간 보고서가 논의되던 당시 성인의 교육 재진입이 어떤 의미였는지 보여 준다.",
+    "check": "인용된 장관의 발언과 2001년 연구자의 서술을 나누어 읽는다."
+  },
+  "bowman": {
+    "title": "호주 국가훈련체계와 상호인정",
+    "by": "Bowman·McKenna · NCVER · 2016",
+    "location": "제도사 · 22쪽",
+    "url": "https://files.eric.ed.gov/fulltext/ED563482.pdf#page=22",
+    "about": "주·준주 단위로 운영되던 훈련을 전국에서 통용시키려 한 제도 변화의 기록이다. 상호인정에는 등록기관이 학습자의 이수를 인정하는 일과 정부가 다른 관할의 기관 등록을 인정하는 일이 함께 들어간다.",
+    "check": "22쪽의 ‘mutual recognition’에서 누가 무엇을 인정하는지 두 쌍으로 표시한다."
+  },
+  "nsa": {
+    "title": "국가숙련협약 2024–2028",
+    "by": "호주 고용노사관계부(DEWR)",
+    "location": "정부 협약 · 재정 및 정책 우선순위",
+    "url": "https://www.dewr.gov.au/national-skills-agreement",
+    "about": "연방과 주·준주가 2024년부터 5년간 공동으로 추진하는 협약이다. 공공 TAFE의 역할과 지역 간 접근성, 숙련 수요에 대응할 재정을 함께 다룬다.",
+    "check": "협약의 기간과 당사자를 확인하고, 재원 투입 목표와 학습자에게 나타난 효과를 나누어 말한다."
+  },
+  "morrill": {
+    "title": "모릴법과 주의 토지부여대학",
+    "by": "미국 국립문서기록관리청 · 1862",
+    "location": "법률 원문 및 기록 해설",
+    "url": "https://www.archives.gov/milestone-documents/morrill-act",
+    "about": "연방 토지 지원을 매개로 주가 농업·기계 분야를 포함한 고등교육을 지원하게 한 법이다. 현금 보조금과 주 계획을 결합한 1917년 제도와 비교할 출발점이다.",
+    "check": "지원 수단이 토지였다는 점과 자료가 다루는 교육 단계가 고등교육이라는 점을 확인한다."
+  },
+  "smith": {
+    "title": "스미스·휴스법",
+    "by": "미국 연방법령집 · 1917",
+    "location": "법률 원문 · 39 Stat. 929",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg929.pdf",
+    "about": "연방이 주와 협력해 직업교육 및 직업교사 양성을 지원하는 근거를 마련한 법이다. 첫 페이지는 법의 목적과 지원 분야를 제시한다.",
+    "check": "929쪽 법률 제목 아래에서 주와의 협력, 교사 양성, 예산에 해당하는 부분을 찾는다."
+  },
+  "hayward": {
+    "title": "미국 직업교육 연방정책의 전개",
+    "by": "Hayward·Benson · 1993",
+    "location": "역사 연구 · PDF 13–14쪽, 17쪽",
+    "url": "https://files.eric.ed.gov/fulltext/ED369959.pdf#page=14",
+    "about": "초기 연방 보조금 제도가 학교 운영에 미친 영향을 해석한 역사 연구다. 직업교사 급여에 쓸 수 있는 재원과 일반교과 재원이 갈라진 점에 주목한다.",
+    "check": "먼저 대응 재원의 조건을 찾고, 17쪽에서 저자들이 교과 분리를 어떻게 설명하는지 확인한다."
+  },
+  "linkow": {
+    "title": "퍼킨스 V 전국 집행 평가",
+    "by": "Linkow 외 · 미국 교육부 NCEE · 2026",
+    "location": "조사 도표 · Exhibit 2, PDF 8쪽",
+    "url": "https://files.eric.ed.gov/fulltext/ED682997.pdf#page=8",
+    "about": "직업·기술교육의 인지도를 높이기 위해 주 단위 기관들이 어떤 활동을 지원했는지 조사했다. Exhibit 2의 막대는 활동별로 응답한 기관 수를 나타낸다.",
+    "check": "그림 아래 주석에서 응답기관 51곳과 일부 문항 50곳을 확인한 뒤 막대 하나를 문장으로 읽는다."
+  },
+  "crs": {
+    "title": "미국 직업·기술교육 제도 개요",
+    "by": "Dortch·Skinner · 미국 의회조사국 · 2026",
+    "location": "제도 해설 · CRS R47166",
+    "url": "https://files.eric.ed.gov/fulltext/ED678588.pdf",
+    "about": "중등 및 중등 이후 단계에서 직업·기술교육(CTE)을 제공하는 기관과 연방 지원제도를 설명한다. 지역 칼리지와 주정부가 어디에 등장하는지 확인할 수 있다.",
+    "check": "문서에서 ‘postsecondary’와 ‘community colleges’를 찾아 기관의 역할과 자금의 흐름을 대조한다."
+  },
+  "oecd": {
+    "title": "직업표준 개발에서의 AI 활용",
+    "by": "OECD · 독일 BIBB 사례",
+    "location": "국제기구 보고서 · 독일 사례",
+    "url": "https://doi.org/10.1787/e9f76b4e-en",
+    "about": "직업표준을 작성·갱신하는 과정에 AI를 어떻게 활용할 수 있는지 다룬다. 독일 BIBB의 문서 처리 시범은 기준을 만드는 전문가의 일에도 기술 변화가 닿는 사례다.",
+    "check": "독일 사례에서 AI가 돕는 문서 작업과 전문가 검토가 필요한 결정을 각각 찾는다."
+  },
+  "jsa": {
+    "title": "생성형 AI 전환과 숙련 수요",
+    "by": "Jobs and Skills Australia",
+    "location": "노동시장 연구 · Skills 편",
+    "url": "https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/our-gen-ai-transition-skills",
+    "about": "호주에서 생성형 AI의 확산으로 과업과 숙련 수요가 어떻게 바뀔 수 있는지 분석한다. 직업 안에서도 과업의 성격에 따라 영향이 달라질 수 있다.",
+    "check": "과업 노출에 대한 추정과 실제 훈련과정 개설을 각각 어떤 자료로 확인할지 정한다."
+  },
+  "robot": {
+    "title": "호주 국가로봇전략의 숙련과 다양성",
+    "by": "호주 산업과학자원부 · 2024",
+    "location": "국가전략 · 주제 4",
+    "url": "https://www.industry.gov.au/publications/national-robotics-strategy/theme-4-skills-and-diversity",
+    "about": "로봇 관련 숙련과 인력 양성을 다룬 정부 전략이다. 서호주 South Metropolitan TAFE의 자율 작업장 및 원격운영 교육 사례를 담고 있다.",
+    "check": "기관명과 과정명을 확인하고, 국가전략의 목표와 이 기관이 제공하는 훈련을 구분해 설명한다."
+  },
+  "ifr": {
+    "title": "로봇 시스템에서의 AI 활용",
+    "by": "국제로봇연맹(IFR)",
+    "location": "산업단체 자료 · AI in Robotics",
+    "url": "https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper",
+    "about": "로봇의 환경 인식과 실제 동작에 AI가 어떻게 쓰이는지 산업계 관점에서 소개한다. 물리적인 설비를 다루는 과업의 사례를 찾을 때 사용한다.",
+    "check": "하나의 로봇 활용 예를 고르고 환경 인식, 판단, 동작을 나누어 설명한다."
+  },
+  "dol": {
+    "title": "노동부 AI 리터러시 프레임워크",
+    "by": "미국 노동부 · 2026",
+    "location": "행정 지침 · TEN 07-25",
+    "url": "https://www.dol.gov/agencies/eta/advisories/ten-07-25",
+    "about": "교육과 훈련을 설계할 때 활용하도록 배포한 연방 지침이다. AI 도구 사용과 함께 출력의 품질을 판단하고 책임 있게 활용할 능력을 다룬다.",
+    "check": "첨부 자료 I에서 결과 평가에 관한 요소를 찾고, 이를 정비 실습에서 어떻게 관찰할지 생각한다."
+  },
+  "amazon": {
+    "title": "메카트로닉스·로보틱스 도제과정",
+    "by": "Amazon 미국 · RME",
+    "location": "고용주 자료 · 과정 안내",
+    "url": "https://www.amazon.jobs/content/en/career-programs/apprenticeships/rme/us",
+    "about": "기업이 자사 설비의 유지·보수 인력을 훈련하는 경로를 공개한 안내다. 강의와 현장 훈련이 어떻게 이어지는지 해당 고용주의 사례로 살펴볼 수 있다.",
+    "check": "교실 교육과 현장 훈련의 순서를 확인한다. 다른 고용주의 인정 여부를 알려면 어떤 자료가 더 필요한지 적는다."
+  },
+  "noh": {
+    "title": "자동화기술과 생산기능 직무의 지적숙련 요건",
+    "by": "노용진 · 『산업관계연구』 · 2023",
+    "location": "학술논문 · 33권 2호, 227–259쪽",
+    "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966262",
+    "about": "자동화기술과 생산기능 직무에서 요구하는 지적숙련의 관계를 분석한 국내 연구다. 설비 상태를 해석하는 판단을 발표 사례로 구성할 때 참고한 문헌이다.",
+    "check": "초록의 분석 대상과 결과를 읽고, 발표자가 구성한 가상의 설비 경보 장면과 구별한다."
+  },
+  "k-history": {
+    "title": "한국 직업훈련의 제도 연혁",
+    "by": "한국산업인력공단 · 30년사",
+    "location": "기관사 · 직업훈련법과 공공훈련",
+    "url": "https://webzine.hrdkorea.or.kr/history/data/HRDK_30YEARS_History_Book.pdf",
+    "about": "한국에서 직업훈련 관련 법과 집행기관이 만들어진 흐름을 확인할 수 있는 기관사다. 한국의 정책과 각국 제도가 같은 시기에 어떤 문제를 다뤘는지 대조한다.",
+    "check": "‘직업훈련법’을 검색해 제정 시점과 후속 집행기관의 출범 시점을 구분한다."
+  },
+  "timeline": {
+    "title": "독일·호주·미국·한국의 비교 연표",
+    "by": "발표자료 부속 연표",
+    "location": "비교표 · 국가별 상세 연표 연결",
+    "url": "https://01chungee10.github.io/skills-and-credentials/reading/timeline.html",
+    "about": "네 나라의 주요 전환점을 같은 시간축 위에 놓은 학습용 연표다. 항목에서 국가별 상세 연표와 근거를 이어서 볼 수 있다.",
+    "check": "하나의 시기를 정한 뒤 네 나라의 정책이 각각 해결하려 한 문제를 한 문장으로 비교한다."
+  },
+  "kdigital": {
+    "title": "디지털 핵심 실무인재 양성훈련 공고",
+    "by": "고용노동부 · 2020",
+    "location": "정부 공고 · K-Digital Training",
+    "url": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20200700187",
+    "about": "디지털 분야 훈련사업의 출발점에서 정부가 요구한 과정 설계와 지원 대상을 확인할 수 있는 공고다. 한국의 훈련 성과를 추적할 때 제도 도입과 이후 성과를 나누어 읽는다.",
+    "check": "공고와 첨부 자료에서 사업의 목적을 확인한 뒤, 이수자의 직무 이동을 알려면 어떤 후속 자료가 필요한지 적는다."
+  }
+}

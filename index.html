@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#203e38">
+  <meta name="description" content="독일·호주·미국 직업교육훈련사 발표를 준비하는 3열 워크북. PowerPoint 슬라이드, 낭독 대본, 사료와 읽기 해설을 함께 본다.">
+  <title>발표 준비실 · 해외 직업교육훈련의 역사</title>
+  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#stage">발표 자료로 건너뛰기</a>
+<header class="mast"><div class="mast-in">
+  <div class="brand"><a href="https://01chungee10.github.io/skills-and-credentials/">산업인력개발사</a><span aria-hidden="true">/</span><b>발표 준비실</b></div>
+  <nav aria-label="연관 페이지"><a href="https://01chungee10.github.io/skills-and-credentials/reading/timeline.html">비교 연표</a><a href="https://01chungee10.github.io/skills-and-credentials/reading/prep.html">문헌 읽기 순서</a><a class="deck" href="presentation-r010.pptx" download>PowerPoint 내려받기 <span aria-hidden="true">↓</span></a></nav>
+</div></header>
+<main>
+  <div class="titlebar"><div><h1>해외 직업교육훈련의 역사</h1><p>독일 · 호주 · 미국의 숙련 형성과 기술 변화</p></div></div>
+  <div class="toolbar" aria-label="슬라이드 탐색">
+    <div class="counter"><span>발표 순서</span><strong id="counter">01 / 29</strong></div>
+    <label class="picker"><span class="sr">이동할 슬라이드 선택</span><select id="picker" disabled><option>슬라이드 불러오는 중…</option></select></label>
+    <div class="pager"><button id="prev" type="button" disabled><span aria-hidden="true">←</span> 이전</button><button id="next" type="button" disabled>다음 <span aria-hidden="true">→</span></button></div>
+  </div>
+  <div class="progress" aria-hidden="true"><i id="progress"></i></div>
+  <p class="sr" aria-live="polite" id="announce"></p>
+  <noscript><p>슬라이드를 탐색하려면 자바스크립트를 켜 주세요. <a href="presentation-r010.pptx">PowerPoint</a>와 <a href="https://01chungee10.github.io/skills-and-credentials/reading/prep.html">문헌 읽기 순서</a>는 바로 열 수 있습니다.</p></noscript>
+  <p hidden id="error">화면을 불러오지 못했습니다. <a href="">다시 열기</a> · <a href="https://01chungee10.github.io/skills-and-credentials/reading/">전체 문헌과 대본 보기</a></p>
+  <div class="workspace" id="stage" tabindex="-1">
+    <section class="panel left" aria-labelledby="left-label">
+      <h2 id="left-label">발표슬라이드 및 스크립트</h2>
+      <div class="plate"><div class="plate-info"><span id="chapter"></span><span id="deck-id"></span></div>
+        <button type="button" id="zoom" aria-label="발표 슬라이드 크게 보기" disabled><img id="slide-img" alt="" width="1440" height="810"><span class="magnify" aria-hidden="true">⛶ 확대</span></button>
+      </div>
+      <div class="script-label"><h3>발표 스크립트</h3><button id="hide-script" type="button" aria-expanded="true" aria-controls="script">대본 가리기</button></div>
+      <p id="script" class="spoken"></p>
+    </section>
+    <section class="panel middle" aria-labelledby="middle-label">
+      <h2 id="middle-label">연관 참고자료</h2>
+      <p class="helper">자료를 선택하면 해설이 바뀝니다.</p>
+      <div id="refs" class="refs"></div>
+    </section>
+    <section class="panel right" aria-labelledby="right-label">
+      <h2 id="right-label">참고자료 설명</h2>
+      <article id="annotation" aria-live="polite" aria-atomic="true">
+        <p class="source-meta" id="material"></p><h3 id="ref-title"></h3><p id="about"></p>
+        <div class="reading-point"><h4>원문에서 짚을 부분</h4><p id="check"></p></div>
+        <a id="open-source" target="_blank" rel="noopener">자료 열기 <span aria-hidden="true">↗</span></a>
+      </article>
+      <aside class="prompt"><h3>대본을 덮고 답해 보기</h3><p id="question"></p></aside>
+    </section>
+  </div>
+</main>
+<dialog id="viewer" aria-labelledby="viewer-title"><div class="viewer-top"><strong id="viewer-title"></strong><button id="close" type="button">닫기 <span aria-hidden="true">×</span></button></div><img id="large-img" width="1440" height="810" alt=""></dialog>
+</body></html>
