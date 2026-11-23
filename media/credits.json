@@ -1,0 +1,202 @@
+[
+  {
+    "filename": "media/map-de.png",
+    "role": "지도",
+    "source": "Natural Earth, 1:110m Admin 0 Countries",
+    "url": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
+    "credit": "경계 원자료 Natural Earth (public domain), 발표용 재도식",
+    "description": "독일 현행 국경 기준 위치도. 뉘른베르크·브레멘 표시. 세계지도에 국가 위치 병기.",
+    "width": 960,
+    "height": 630
+  },
+  {
+    "filename": "media/map-au.png",
+    "role": "지도",
+    "source": "Natural Earth, 1:110m Admin 0 Countries",
+    "url": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
+    "credit": "경계 원자료 Natural Earth (public domain), 발표용 재도식",
+    "description": "호주 현행 국경 기준 위치도. 부지 빔·호바트·시드니·먼스터 표시. 세계지도에 국가 위치 병기.",
+    "width": 960,
+    "height": 630
+  },
+  {
+    "filename": "media/map-us.png",
+    "role": "지도",
+    "source": "Natural Earth, 1:110m Admin 0 Countries",
+    "url": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
+    "credit": "경계 원자료 Natural Earth (public domain), 발표용 재도식",
+    "description": "미국 현행 국경 기준 위치도. 보스턴·터스키기 표시. 세계지도에 국가 위치 병기.",
+    "width": 960,
+    "height": 630
+  },
+  {
+    "filename": "media/de-shop.jpg",
+    "role": "역사 사진",
+    "source": "독일역사박물관 · 1900년 이후",
+    "url": "https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_78.htm",
+    "credit": "독일역사박물관 · 1900년 이후 · 사진 · 전시 도록 1/78",
+    "description": "뉘른베르크 견습 작업장",
+    "width": 750,
+    "height": 641
+  },
+  {
+    "filename": "media/de-class.jpg",
+    "role": "역사 사진",
+    "source": "독일역사박물관 · 1908",
+    "url": "https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_79.htm",
+    "credit": "독일역사박물관 · 1908 · 사진 · 전시 도록 1/79",
+    "description": "뉘른베르크 견습학교 제도실",
+    "width": 750,
+    "height": 555
+  },
+  {
+    "filename": "media/au-class.jpg",
+    "role": "역사 사진",
+    "source": "뉴사우스웨일스 정부 인쇄소 · 1909",
+    "url": "https://commons.wikimedia.org/wiki/File:Bootmaking_class_in_the_pattern_cutting_and_clicking_room,_Erskineville_Bootmaking_School_1909.png",
+    "credit": "뉴사우스웨일스 정부 인쇄소 · 1909 · 사진 · 기념 간행물 264쪽",
+    "description": "어스킨빌 제화학교 재단실",
+    "width": 698,
+    "height": 504
+  },
+  {
+    "filename": "media/us-class.jpg",
+    "role": "역사 사진",
+    "source": "미국 의회도서관 · 1902년경",
+    "url": "https://www.loc.gov/item/2014646488/",
+    "credit": "미국 의회도서관 · 1902년경 · 사진 · LC-DIG-ds-05694",
+    "description": "터스키기 인스티튜트의 기계제도 수업",
+    "width": 640,
+    "height": 516
+  },
+  {
+    "filename": "media/bremen.png",
+    "role": "문헌 발췌",
+    "source": "서독 연방의회 · 1970",
+    "url": "https://dserver.bundestag.de/btd/06/007/0600778.pdf#page=1",
+    "credit": "서독 연방의회 · 1970 · 의회 문서 VI/778 · 1쪽",
+    "description": "브레멘 직업훈련위원회 설치 기록",
+    "width": 709,
+    "height": 184
+  },
+  {
+    "filename": "media/ulmer.png",
+    "role": "문헌 발췌",
+    "source": "Ulmer 외 · BIBB · 2021",
+    "url": "https://www.bibb.de/dienst/publikationen/download/17504#page=20",
+    "credit": "Ulmer 외 · BIBB · 2021 · 비교연구 · 인쇄 19쪽, PDF 20쪽",
+    "description": "독일 직종별 훈련기준의 제정 절차",
+    "width": 1353,
+    "height": 197
+  },
+  {
+    "filename": "media/goozee.png",
+    "role": "문헌 발췌",
+    "source": "Gillian Goozee · NCVER · 2001",
+    "url": "https://www.ncver.edu.au/sites/default/files/ncver-documents/development-of-tafe-in-australia-574.pdf#page=27",
+    "credit": "Gillian Goozee · NCVER · 2001 · 제도사 · 25–27쪽",
+    "description": "호주 TAFE의 발전",
+    "width": 1210,
+    "height": 190
+  },
+  {
+    "filename": "media/bowman.png",
+    "role": "문헌 발췌",
+    "source": "Bowman·McKenna · NCVER · 2016",
+    "url": "https://files.eric.ed.gov/fulltext/ED563482.pdf#page=22",
+    "credit": "Bowman·McKenna · NCVER · 2016 · 제도사 · 22쪽",
+    "description": "호주 국가훈련체계와 상호인정",
+    "width": 1178,
+    "height": 227
+  },
+  {
+    "filename": "media/smith.png",
+    "role": "문헌 발췌",
+    "source": "미국 연방법령집 · 1917",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg929.pdf",
+    "credit": "미국 연방법령집 · 1917 · 법률 원문 · 39 Stat. 929",
+    "description": "스미스·휴스법",
+    "width": 966,
+    "height": 143
+  },
+  {
+    "filename": "media/linkow.png",
+    "role": "문헌 발췌",
+    "source": "Linkow 외 · 미국 교육부 NCEE · 2026",
+    "url": "https://files.eric.ed.gov/fulltext/ED682997.pdf#page=8",
+    "credit": "Linkow 외 · 미국 교육부 NCEE · 2026 · 조사 도표 · Exhibit 2, PDF 8쪽",
+    "description": "퍼킨스 V 전국 집행 평가",
+    "width": 1543,
+    "height": 906
+  },
+  {
+    "filename": "media/us-contract.jpg",
+    "role": "사료 원본",
+    "source": "American Antiquarian Society, catalog no. 272165",
+    "url": "https://patriotprinter.org/becoming/doc-closeread.html",
+    "credit": "American Antiquarian Society · Isaiah Thomas: Becoming a Printer · 1756년 6월 4일",
+    "description": "보스턴 빈민감독관이 아이제이아 토머스를 인쇄업자 재커라이어 파울에게 맡긴 견습 계약. 원본 앞면의 기관 제공 디지털 이미지.",
+    "width": 1234,
+    "height": 1912
+  },
+  {
+    "filename": "media/budj.jpg",
+    "role": "유적 사진",
+    "source": "denisbin, Flickr",
+    "url": "https://www.flickr.com/photos/82134796@N03/17250462020/",
+    "credit": "denisbin, CC BY-ND 2.0 · https://creativecommons.org/licenses/by-nd/2.0/",
+    "description": "Lake Condah near Heywood. Remains of Aboriginal stone eel traps. 사진 전체 사용. 크롭하지 않음.",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "filename": "media/de1897.png",
+    "role": "법령 원본",
+    "source": "Deutsches Reichsgesetzblatt 1897, Nr. 37, p.663",
+    "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1897_037_663.jpg",
+    "credit": "Deutsches Reichsgesetzblatt, Nr. 37 (1897), S. 663",
+    "description": "1897년 7월 26일 영업조례 개정법 공포문 머리면.",
+    "width": 1129,
+    "height": 1450
+  },
+  {
+    "filename": "media/morrill.png",
+    "role": "법령 원본",
+    "source": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/milestone-documents/morrill-act",
+    "credit": "NARA, Record Group 11, NAID 299817",
+    "description": "1862년 7월 2일 모릴법 제1면. www.archives.gov/files/milestone-documents/images/doc-033-big.jpg",
+    "width": 500,
+    "height": 697
+  },
+  {
+    "filename": "media/tafe-course.png",
+    "role": "과정 안내 발췌",
+    "source": "South Metropolitan TAFE",
+    "url": "https://www.southmetrotafe.wa.edu.au/sites/default/files/2024-07/2025%20VETDSS%20bk_v10.pdf#page=63",
+    "credit": "South Metropolitan TAFE, VETDSS 2025 Pathway Opportunities, p.63",
+    "description": "RII21222 Certificate II in Autonomous Workplace Operations. 먼스터·손리 캠퍼스 운영 및 수업 내용 원문 발췌. 중등학생 대상 안내.",
+    "width": 1216,
+    "height": 638
+  },
+  {
+    "filename": "media/atlas.gif",
+    "role": "동작 도해",
+    "source": "발표자 제작. 원본 실사 영상은 Boston Dynamics 공식 페이지에서 제공.",
+    "url": "https://bostondynamics.com/video/atlas-goes-hands-on",
+    "credit": "발표자 제작. 원본 실사 영상은 Boston Dynamics 공식 페이지에서 제공.",
+    "description": "엔진 커버를 들어 이송하고 삽입하는 과정의 자체 제작 동작 도해",
+    "width": 960,
+    "height": 470
+  },
+  {
+    "filename": "media/map-au-schools.gif",
+    "role": "지도",
+    "source": "발표자 제작 · Natural Earth 경계 자료",
+    "url": "https://www.naturalearthdata.com/",
+    "credit": "발표자 제작 · Natural Earth 경계 자료",
+    "description": "호바트 1827년과 시드니 1833년 기술교육기관 설립 위치를 표시한 지도",
+    "width": 960,
+    "height": 470
+  }
+]
