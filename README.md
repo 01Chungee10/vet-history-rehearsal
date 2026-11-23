@@ -1,9 +1,10 @@
 # 독일·호주·미국 직업교육훈련의 형성과 변화
 
-[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r011.pptx)
+[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r012.pptx)
 
-산업인력개발사 발표 24장과 장별 낭독 대본을 수록한 한국어 워크북입니다. 왼쪽은 슬라이드와 대본, 가운데는 자료 목록, 오른쪽은 선택한 자료의 설명과 읽을 위치입니다.
+산업인력개발사 발표 본문 24장, 참고문헌 12장과 장별 낭독 대본을 수록한 한국어 워크북입니다. 왼쪽은 슬라이드와 대본, 가운데는 자료 목록, 오른쪽은 선택한 자료의 설명과 읽을 위치입니다.
 
+- 국가별 장표의 오른쪽 위 역사 탐색기에서 시기를 선택해 관련 장표로 이동합니다. 휴대전화에서도 같은 탐색기를 사용할 수 있습니다.
 - 목록과 좌우 방향키로 장표를 옮깁니다. 이미지를 누르면 확대되고 Esc로 닫힙니다.
 - 장표와 자료를 함께 공유할 수 있습니다. [1917년 스미스·휴스법 원문과 장표](https://01chungee10.github.io/vet-history-rehearsal/#slide-18/ref-smith)
 - 전체 참고문헌에서 국가·시대·종류·범위를 선택하거나 제목·저자·기관·보유 파일명으로 검색합니다. 각 서지 항목의 장표 번호를 누르면 해당 자료가 선택된 장표로 이동합니다.
@@ -12,6 +13,6 @@
 
 ## 파일
 
-`slides.json`은 장표 본문·대본·자료 키, `sources.json`은 공개 서지·접근 정보·읽을 대목, `holdings.js`는 중복 출처와 연결한 프로젝트 보유 원문 색인입니다. `media/credits.json`에서 지도·사진·도식의 출처를 확인할 수 있습니다. `slides/01.webp`부터 `slides/24.webp`까지는 해당 장의 화면입니다.
+`slides.json`은 장표 본문·대본·자료 키, `sources.json`은 공개 서지·접근 정보·읽을 대목, `holdings.js`는 중복 출처와 연결한 프로젝트 보유 원문 색인입니다. `media/credits.json`에서 지도·사진·도식의 출처를 확인할 수 있습니다. `slides/`에 본문과 참고문헌 장표의 화면을 원본 순서로 저장합니다.
 
 저장소 루트에서 `python3 -m http.server 8000`을 실행한 후 `http://localhost:8000`을 엽니다. GitHub Pages는 main 브랜치 루트를 게시합니다.

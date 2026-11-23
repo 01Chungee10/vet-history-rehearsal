@@ -85,6 +85,7 @@ function openLinks(key, allowLocalSetup = true) {
 
 function selectSource(key, userSelected = false) {
   activeKey = key;
+  byId('nav-slides').href = slideUrl(slides[current].id,key);
   const s = sources[key];
   document.querySelectorAll('.choose').forEach(button =>
     button.setAttribute('aria-pressed', String(button.dataset.key === key)));
@@ -164,6 +165,47 @@ function showVisuals(slide) {
   byId('visual-register').hidden=!rows.length;
   byId('visual-register').open=false;
 }
+const historyRoutes = [
+  { country:'독일', color:'de', overview:8, events:[
+    [5,'1897','수공업 보호 입법'],[6,'1908','기업 견습학교'],[7,'1969','기업훈련법'],[22,'2018 이후','디지털 직종 기준']
+  ]},
+  { country:'호주', color:'au', overview:14, events:[
+    [9,'식민 이전','부지 빔 양식 시설'],[10,'19세기','도시 기술교육'],[11,'1974','캉간 보고서'],[13,'1990년대','자격 상호인정'],[22,'현재','원격운영 과정']
+  ]},
+  { country:'미국', color:'us', overview:19, events:[
+    [15,'식민지기','견습계약'],[16,'1862·1881','고등교육·터스키기'],[17,'1902년경','기계제도 수업'],[18,'1917','연방 보조금'],[23,'현재','AI·기업 도제']
+  ]}
+];
+function renderHistory(slide) {
+  const nav=byId('history-nav');
+  const routes=historyRoutes.filter(route =>
+    route.overview === slide.id ||
+    route.events.some(event => event[0] === slide.id) ||
+    (route.country==='호주' && slide.id===12));
+  nav.hidden = !routes.length;
+  nav.replaceChildren();
+  for (const route of routes) {
+    const lane=node('div','','history-lane route-'+route.color), heading=node('div','','route-heading');
+    heading.append(node('strong',route.country+' 직업교육 연표'));
+    const all=link('전체 연표',slideUrl(route.overview));
+    if (slide.id===route.overview) all.setAttribute('aria-current','page');
+    heading.append(all);
+    const list=node('ol','','route-events');
+    for (const [id,label,shortTitle] of route.events) {
+      const item=node('li'), event=link(label,slideUrl(id));
+      event.title=shortTitle+' · '+id+'장';
+      event.setAttribute('aria-label',route.country+' '+label+' '+shortTitle+' · '+id+'장');
+      if (slide.id===id) event.setAttribute('aria-current','page');
+      event.append(node('small',shortTitle));
+      item.append(event);
+      list.append(item);
+    }
+    lane.append(heading,list);
+    if (slide.id===12) lane.append(node('small','현재 장표 · TAFE의 교육 대상과 학습경로','route-related'));
+    nav.append(lane);
+  }
+}
+
 function renderSlide(id, sourceKey) {
   const found = slides.findIndex(slide => slide.id === id);
   current = found < 0 ? 0 : found;
@@ -179,11 +221,16 @@ function renderSlide(id, sourceKey) {
   byId('slide-img').alt = slide.alt || slide.title;
   byId('zoom').disabled = false;
   byId('script').textContent = slide.script;
-  byId('question').textContent = slide.question;
+  byId('question').textContent = slide.question || '';
+  byId('question').closest('aside').hidden = !slide.question;
   byId('refs').replaceChildren(...slide.sources.map(makeReference));
-  selectSource(slide.sources.includes(sourceKey) ? sourceKey : slide.sources[0]);
+  const initialKey = slide.sources.includes(sourceKey) ? sourceKey : slide.sources[0];
+  activeKey = initialKey || '';
+  byId('annotation').hidden = !initialKey;
+  if (initialKey) selectSource(initialKey);
   updateAnimation();
   showVisuals(slide);
+  renderHistory(slide);
   byId('nav-slides').href = slideUrl(slide.id,activeKey);
   byId('announce').textContent = '발표 순서 ' + (current+1) + '. ' + slide.title;
   document.title = slide.title + ' | 직업교육훈련사 발표 준비실';
@@ -212,7 +259,9 @@ function makeRecord(key) {
   metadataRow(dl,'읽을 대목',s.check);
   metadataRow(dl,'접근 경로',[s.access || '발행처 자료',s.holding && !String(s.access).includes('보유') ? '보유 PDF' : ''].filter(Boolean).join(' · '));
   if (s.holding) metadataRow(dl,'보유 파일명',s.holding.file);
-  const use = used.get(key) || [];
+  const allUses = used.get(key) || [];
+  const use = allUses.filter(slide => slide.chapter !== '참고문헌');
+  const pages = allUses.filter(slide => slide.chapter === '참고문헌');
   const wrap = node('div','','used-slides');
   wrap.append(node('strong',use.length ? '사용 장표' : '발표 준비용 추가 문헌'));
   use.forEach(slide => {
@@ -221,14 +270,21 @@ function makeRecord(key) {
     a.setAttribute('aria-label',pad(slide.id)+'장 '+slide.title);
     wrap.append(a);
   });
-  detail.append(dl,wrap,openLinks(key));
+  detail.append(dl,wrap);
+  if (pages.length) {
+    const list = node('div','','used-slides');
+    list.append(node('strong','참고문헌 수록 장표'));
+    pages.forEach(page => list.append(link(pad(page.id)+'장',slideUrl(page.id,key))));
+    detail.append(list);
+  }
+  detail.append(openLinks(key));
   row.append(summary,detail);
   return row;
 }
 function renderRecords() {
   const q = byId('query').value.trim().toLocaleLowerCase();
   const searched = Object.entries(sources).filter(([key,s]) => {
-    if (byId('collection').value === 'used' && !used.has(key)) return false;
+    if (byId('collection').value === 'used' && !used.get(key)?.some(slide => slide.chapter !== '참고문헌')) return false;
     if (byId('collection').value === 'holding' && !s.holding) return false;
     if (byId('country').value && s.country !== byId('country').value) return false;
     if (byId('kind').value && sourceType(s) !== byId('kind').value) return false;
@@ -262,10 +318,10 @@ function connectFiles(event) {
 }
 function studyPlan() {
   const plans = [
-    ['독일',[[4,'수공업 견습의 배경'],[6,'기업 견습학교의 사진'],[7,'기업과 학교의 훈련기준'],[22,'산업 직종의 디지털 기준']]],
+    ['독일',[[5,'수공업 견습의 배경'],[6,'기업 견습학교의 사진'],[7,'기업과 학교의 훈련기준'],[22,'산업 직종의 디지털 기준']]],
     ['호주',[[9,'부지 빔의 생업 기술'],[10,'식민지 교육기관과 제화학교'],[11,'캉간 보고서와 TAFE'],[13,'이수 기록의 상호인정'],[22,'TAFE의 원격운영 과정']]],
     ['미국',[[15,'견습계약의 교육 조건'],[16,'토지 지원과 남부 교육기관'],[17,'터스키기의 제도 수업'],[18,'연방 보조금 지급 조건'],[23,'AI 지침과 기업 도제과정']]],
-    ['한국·비교',[[2,'숙련 형성의 비교 관점'],[3,'동시대 전환점'],[20,'전후 훈련정책 비교'],[24,'한국에 적용할 질문']]]
+    ['한국·비교',[[2,'숙련 형성의 비교 관점'],[3,'동시대 전환점'],[4,'국가별 훈련체제 비교'],[20,'전후 훈련정책 비교'],[24,'역사적 특징과 한국의 직업훈련']]]
   ];
   const groups=plans.map(([country,steps])=>{
     const section=node('section','','study-group');

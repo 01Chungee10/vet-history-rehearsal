@@ -11,9 +11,10 @@
     "year": "1900년 이후",
     "author": "Deutsches Historisches Museum",
     "originalTitle": "Lehrwerkstätte für Grobmechaniker in der Elektrizitäts-AG, vormals Schuckert & Co., Nürnberg",
-    "apa": "Deutsches Historisches Museum. (1900년 이후). Lehrwerkstätte für Grobmechaniker in der Elektrizitäts-AG, vormals Schuckert & Co., Nürnberg. Siemens-Museum 소장 사진 복제, 전시 도록 1/78.",
+    "apa": "Lehrwerkstätte für Grobmechaniker in der Elektrizitäts-AG, vormals Schuckert & Co., Nürnberg [Photograph]. (after 1900). Siemens-Museum, Munich. Deutsches Historisches Museum, exhibition item 1/78. https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_78.htm",
     "access": "공개 소장 기록·이미지",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Lehrwerkstätte für Grobmechaniker, after 1900"
   },
   "de-draw": {
     "title": "뉘른베르크 견습학교 제도실",
@@ -27,9 +28,10 @@
     "year": "1908",
     "author": "Deutsches Historisches Museum",
     "originalTitle": "Zeichensaal der Lehrlings- und Fortbildungsschule bei den Siemens-Schuckert-Werken Nürnberg",
-    "apa": "Deutsches Historisches Museum. (1908). Zeichensaal der Lehrlings- und Fortbildungsschule bei den Siemens-Schuckert-Werken Nürnberg. Siemens-Museum 소장 사진 복제, 전시 도록 1/79.",
+    "apa": "Zeichensaal der Lehrlings- und Fortbildungsschule bei den Siemens-Schuckert-Werken Nürnberg [Photograph]. (1908). Siemens-Museum, Munich. Deutsches Historisches Museum, exhibition item 1/79. https://www.dhm.de/archiv/ausstellungen/lebensstationen/1_79.htm",
     "access": "공개 소장 기록·이미지",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Zeichensaal der Lehrlings- und Fortbildungsschule, 1908"
   },
   "au-photo": {
     "title": "어스킨빌 제화학교 재단실",
@@ -43,9 +45,10 @@
     "year": "1909",
     "author": "Government Printer, New South Wales",
     "originalTitle": "A quarter century of technical education in New South Wales",
-    "apa": "Government Printer, New South Wales. (1909). A quarter century of technical education in New South Wales. p. 264. Erskineville Bootmaking School 재단실 사진.",
+    "apa": "Bootmaking class in the pattern cutting and clicking room, Erskineville Bootmaking School [Photograph]. (1909). In A quarter century of technical education in New South Wales (p. 264). Government Printer. https://commons.wikimedia.org/wiki/File:Bootmaking_class_in_the_pattern_cutting_and_clicking_room,_Erskineville_Bootmaking_School_1909.png",
     "access": "공개 소장 기록·이미지",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Bootmaking class, 1909"
   },
   "us-photo": {
     "title": "터스키기 인스티튜트의 기계제도 수업",
@@ -56,12 +59,13 @@
     "check": "칠판과 학생들의 제도판을 찾는다. 촬영 시점과 1917년 연방법 제정 시점을 비교한다.",
     "country": "미국",
     "type": "사진",
-    "year": "1902년경",
+    "year": "ca. 1902",
     "author": "Johnston, F. B.",
     "originalTitle": "Mechanical drawing class at Tuskegee Institute, ca. 1902",
-    "apa": "Johnston, F. B.. (1902년경). Mechanical drawing class at Tuskegee Institute, ca. 1902. Library of Congress, LC-DIG-ds-05694.",
+    "apa": "Johnston, F. B. (ca. 1902). Mechanical drawing class at Tuskegee Institute, ca. 1902 [Photograph]. Prints and Photographs Division, Library of Congress (LC-DIG-ds-05694). https://www.loc.gov/item/2014646488/",
     "access": "공개 소장 기록·이미지",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Johnston, ca. 1902"
   },
   "bremen": {
     "title": "브레멘 직업훈련위원회 설치 기록",
@@ -73,11 +77,12 @@
     "country": "독일",
     "type": "의회 문서",
     "year": "1970",
-    "author": "Der Bundesminister für Arbeit und Sozialordnung",
+    "author": "Bundesminister für Arbeit und Sozialordnung",
     "originalTitle": "Antwort auf die Kleine Anfrage zum Berufsbildungsgesetz",
-    "apa": "Der Bundesminister für Arbeit und Sozialordnung. (1970). Antwort auf die Kleine Anfrage zum Berufsbildungsgesetz. Deutscher Bundestag, Drucksache VI/778, 14. Mai 1970.",
+    "apa": "Bundesminister für Arbeit und Sozialordnung. (1970, May 14). Antwort auf die Kleine Anfrage: Berufsbildungsgesetz (Drucksache VI/778). Deutscher Bundestag. https://dserver.bundestag.de/btd/06/007/0600778.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "Bundesminister für Arbeit und Sozialordnung, 1970"
   },
   "ulmer": {
     "title": "독일 직종별 훈련기준의 제정 절차",
@@ -91,9 +96,10 @@
     "year": "2021",
     "author": "Ulmer, P., Geiben, M., Le Mouillour, I., & Milolaza, A.",
     "originalTitle": "Stakeholders and procedures in the development of national training standards: A European comparative study",
-    "apa": "Ulmer, P., Geiben, M., Le Mouillour, I., & Milolaza, A.. (2021). Stakeholders and procedures in the development of national training standards: A European comparative study. Bundesinstitut für Berufsbildung.",
+    "apa": "Ulmer, P., Geiben, M., Le Mouillour, I., & Milolaza, A. (2021). Stakeholders and procedures in the development of national training standards: A European comparative study. Bundesinstitut für Berufsbildung. https://www.bibb.de/dienst/publikationen/download/17504",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Ulmer et al., 2021"
   },
   "gesetz": {
     "title": "독일 직업교육훈련의 법적 틀",
@@ -104,12 +110,13 @@
     "check": "1969년 제정, 2005년 전면 개정, 2020년 개정법 시행을 구별한다.",
     "country": "독일",
     "type": "기관 해설",
-    "year": "n.d.",
+    "year": "n.d.-b",
     "author": "Bundesinstitut für Berufsbildung",
     "originalTitle": "Legal framework in Germany",
-    "apa": "Bundesinstitut für Berufsbildung. (n.d.). Legal framework in Germany.",
+    "apa": "Bundesinstitut für Berufsbildung. (n.d.-b). Legal framework in Germany. https://www.bibb.de/en/146370.php",
     "access": "공개 원문",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "Bundesinstitut für Berufsbildung, n.d.-b"
   },
   "exam": {
     "title": "직업교육훈련법의 종결시험 규정",
@@ -123,9 +130,10 @@
     "year": "2020",
     "author": "Federal Ministry of Education and Research",
     "originalTitle": "The new Vocational Training Act (Berufsbildungsgesetz – BBiG)",
-    "apa": "Federal Ministry of Education and Research. (2020). The new Vocational Training Act (Berufsbildungsgesetz – BBiG). Originally published December 2019, revised reprint August 2020.",
+    "apa": "Federal Ministry of Education and Research. (2020). The new Vocational Training Act (Berufsbildungsgesetz – BBiG) (Revised reprint). https://www.bibb.de/dokumente/pdf/bmbf_The_new_Vocational_Training_Act.pdf",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Federal Ministry of Education and Research, 2020"
   },
   "bibb18": {
     "title": "금속·전기·메카트로닉스 직종의 디지털화",
@@ -136,12 +144,13 @@
     "check": "해당 직종 목록과 공통 내용에 들어간 디지털 역량을 하나씩 찾는다.",
     "country": "독일",
     "type": "기관 해설",
-    "year": "n.d.",
+    "year": "n.d.-a",
     "author": "Bundesinstitut für Berufsbildung",
     "originalTitle": "Evaluation der Novellierung der Metall- und Elektroberufe 2018",
-    "apa": "Bundesinstitut für Berufsbildung. (n.d.). Evaluation der Novellierung der Metall- und Elektroberufe 2018.",
+    "apa": "Bundesinstitut für Berufsbildung. (n.d.-a). Evaluation der Novellierung der Metall- und Elektroberufe 2018. https://www.bibb.de/de/129499.php",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Bundesinstitut für Berufsbildung, n.d.-a"
   },
   "goozee": {
     "title": "호주 TAFE의 발전",
@@ -155,9 +164,10 @@
     "year": "2001",
     "author": "Goozee, G.",
     "originalTitle": "The development of TAFE in Australia",
-    "apa": "Goozee, G.. (2001). The development of TAFE in Australia. 3rd ed. NCVER.",
+    "apa": "Goozee, G. (2001). The development of TAFE in Australia (3rd ed.). National Centre for Vocational Education Research. https://www.ncver.edu.au/sites/default/files/ncver-documents/development-of-tafe-in-australia-574.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "Goozee, 2001"
   },
   "bowman": {
     "title": "호주 국가훈련체계와 상호인정",
@@ -171,9 +181,10 @@
     "year": "2016",
     "author": "Bowman, K., & McKenna, S.",
     "originalTitle": "The development of Australia’s national training system: A dynamic tension between consistency and flexibility",
-    "apa": "Bowman, K., & McKenna, S.. (2016). The development of Australia’s national training system: A dynamic tension between consistency and flexibility. NCVER.",
+    "apa": "Bowman, K., & McKenna, S. (2016). The development of Australia’s national training system: A dynamic tension between consistency and flexibility. National Centre for Vocational Education Research. https://files.eric.ed.gov/fulltext/ED563482.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "Bowman & McKenna, 2016"
   },
   "nsa": {
     "title": "국가숙련협약 2024–2028",
@@ -184,12 +195,13 @@
     "check": "협약의 기간과 당사자를 확인하고, 재원 투입 목표와 학습자에게 나타난 효과를 나누어 말한다.",
     "country": "호주",
     "type": "협약·정책",
-    "year": "n.d.",
-    "author": "Australian Government Department of Employment and Workplace Relations",
+    "year": "2024",
+    "author": "Department of Employment and Workplace Relations",
     "originalTitle": "National Skills Agreement",
-    "apa": "Australian Government Department of Employment and Workplace Relations. (n.d.). National Skills Agreement. 2024–2028 협약 안내.",
+    "apa": "Department of Employment and Workplace Relations. (2024, December 13). National Skills Agreement. Australian Government. https://www.dewr.gov.au/national-skills-agreement",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Department of Employment and Workplace Relations, 2024"
   },
   "morrill": {
     "title": "모릴법과 주의 토지부여대학",
@@ -203,9 +215,10 @@
     "year": "1862",
     "author": "United States Congress",
     "originalTitle": "Morrill Act",
-    "apa": "United States Congress. (1862). Morrill Act. 12 Stat. 503. National Archives and Records Administration.",
+    "apa": "Morrill Act, ch. 130, 12 Stat. 503 (1862). https://www.archives.gov/milestone-documents/morrill-act",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Morrill Act, 1862"
   },
   "smith": {
     "title": "스미스·휴스법",
@@ -219,9 +232,10 @@
     "year": "1917",
     "author": "United States Congress",
     "originalTitle": "Smith–Hughes Act",
-    "apa": "United States Congress. (1917). Smith–Hughes Act. 39 Stat. 929.",
+    "apa": "Smith–Hughes Vocational Education Act, ch. 114, 39 Stat. 929 (1917). https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg929.pdf",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Smith–Hughes Act, 1917"
   },
   "hayward": {
     "title": "미국 직업교육 연방정책의 전개",
@@ -235,9 +249,10 @@
     "year": "1993",
     "author": "Hayward, G. C., & Benson, C. S.",
     "originalTitle": "Vocational-technical education: Major reforms and debates 1917–present",
-    "apa": "Hayward, G. C., & Benson, C. S.. (1993). Vocational-technical education: Major reforms and debates 1917–present. ERIC ED369959.",
+    "apa": "Hayward, G. C., & Benson, C. S. (1993). Vocational-technical education: Major reforms and debates 1917–present (Report No. ED/OVAE-93-7). U.S. Department of Education, Office of Vocational and Adult Education. https://files.eric.ed.gov/fulltext/ED369959.pdf",
     "access": "공개 원문",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "Hayward & Benson, 1993"
   },
   "linkow": {
     "title": "퍼킨스 V 전국 집행 평가",
@@ -251,9 +266,10 @@
     "year": "2026",
     "author": "Linkow, T., Hurlburt, S., Austin, M., & Parsad, A.",
     "originalTitle": "National evaluation of career and technical education under Perkins V",
-    "apa": "Linkow, T., Hurlburt, S., Austin, M., & Parsad, A.. (2026). National evaluation of career and technical education under Perkins V. National Center for Education Evaluation and Regional Assistance, NCEE 2026-007r.",
+    "apa": "Linkow, T., Hurlburt, S., Austin, M., & Parsad, A. (2026). National evaluation of career and technical education under Perkins V: Evaluation report (Report No. NCEE 2026-007r). National Center for Education Evaluation and Regional Assistance. https://files.eric.ed.gov/fulltext/ED682997.pdf",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Linkow et al., 2026"
   },
   "crs": {
     "title": "미국 직업·기술교육 제도 개요",
@@ -267,9 +283,10 @@
     "year": "2026",
     "author": "Dortch, C., & Skinner, R. R.",
     "originalTitle": "Career and technical education: A primer",
-    "apa": "Dortch, C., & Skinner, R. R.. (2026). Career and technical education: A primer. Congressional Research Service, R47166.",
+    "apa": "Dortch, C., & Skinner, R. R. (2026). Career and technical education: A primer (Report No. R47166). Congressional Research Service. https://files.eric.ed.gov/fulltext/ED678588.pdf",
     "access": "공개 원문",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "Dortch & Skinner, 2026"
   },
   "oecd": {
     "title": "직업표준 개발에서의 AI 활용",
@@ -283,10 +300,11 @@
     "year": "2026",
     "author": "OECD",
     "originalTitle": "Developing vocational education and training with artificial intelligence",
-    "apa": "OECD. (2026). Developing vocational education and training with artificial intelligence. OECD Publishing. doi:10.1787/e9f76b4e-en.",
+    "apa": "OECD. (2026). Developing vocational education and training with artificial intelligence. OECD Publishing. https://doi.org/10.1787/e9f76b4e-en",
     "access": "공개 원문",
     "doi": "10.1787/e9f76b4e-en",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "OECD, 2026"
   },
   "jsa": {
     "title": "생성형 AI 전환과 숙련 수요",
@@ -300,9 +318,10 @@
     "year": "2025",
     "author": "Jobs and Skills Australia",
     "originalTitle": "Our Gen AI transition: Skills",
-    "apa": "Jobs and Skills Australia. (2025). Our Gen AI transition: Skills. Paper E.",
+    "apa": "Jobs and Skills Australia. (2025). Our Gen AI transition: Skills (Paper E). https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/our-gen-ai-transition-skills",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Jobs and Skills Australia, 2025"
   },
   "robot": {
     "title": "호주 국가로봇전략의 숙련과 다양성",
@@ -314,11 +333,12 @@
     "country": "호주",
     "type": "협약·정책",
     "year": "2024",
-    "author": "Australian Government Department of Industry, Science and Resources",
+    "author": "Department of Industry, Science and Resources",
     "originalTitle": "National Robotics Strategy: Theme 4 – Skills and diversity",
-    "apa": "Australian Government Department of Industry, Science and Resources. (2024). National Robotics Strategy: Theme 4 – Skills and diversity.",
+    "apa": "Department of Industry, Science and Resources. (2024). National robotics strategy: Theme 4 – Skills and diversity. Australian Government. https://www.industry.gov.au/publications/national-robotics-strategy/theme-4-skills-and-diversity",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Department of Industry, Science and Resources, 2024"
   },
   "ifr": {
     "title": "로봇 시스템에서의 AI 활용",
@@ -332,9 +352,10 @@
     "year": "2026",
     "author": "International Federation of Robotics",
     "originalTitle": "AI in robotics: New position paper",
-    "apa": "International Federation of Robotics. (2026). AI in robotics: New position paper. 10 February.",
+    "apa": "International Federation of Robotics. (2026, February 10). AI in robotics: New position paper. https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "International Federation of Robotics, 2026"
   },
   "dol": {
     "title": "노동부 AI 리터러시 프레임워크",
@@ -348,9 +369,10 @@
     "year": "2026",
     "author": "U.S. Department of Labor, Employment and Training Administration",
     "originalTitle": "The U.S. Department of Labor’s Artificial Intelligence Literacy Framework",
-    "apa": "U.S. Department of Labor, Employment and Training Administration. (2026). The U.S. Department of Labor’s Artificial Intelligence Literacy Framework. Training and Employment Notice No. 07-25.",
+    "apa": "U.S. Department of Labor, Employment and Training Administration. (2026, February 13). The U.S. Department of Labor’s Artificial Intelligence Literacy Framework (Training and Employment Notice No. 07-25). https://www.dol.gov/agencies/eta/advisories/ten-07-25",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "U.S. Department of Labor, Employment and Training Administration, 2026"
   },
   "amazon": {
     "title": "메카트로닉스·로보틱스 도제과정",
@@ -364,9 +386,10 @@
     "year": "n.d.",
     "author": "Amazon",
     "originalTitle": "Amazon RME Mechatronics & Robotics Apprenticeship",
-    "apa": "Amazon. (n.d.). Amazon RME Mechatronics & Robotics Apprenticeship. Amazon Jobs.",
+    "apa": "Amazon. (n.d.). Amazon RME Mechatronics & Robotics Apprenticeship. Amazon Jobs. https://www.amazon.jobs/content/en/career-programs/apprenticeships/rme/us",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Amazon, n.d."
   },
   "noh": {
     "title": "자동화기술과 생산기능 직무의 지적숙련 요건",
@@ -380,10 +403,11 @@
     "year": "2023",
     "author": "노용진",
     "originalTitle": "자동화기술과 생산기능 직무의 지적숙련 요건",
-    "apa": "노용진. (2023). 자동화기술과 생산기능 직무의 지적숙련 요건. 산업관계연구, 33(2), 227–259. doi:10.37926/KJIR.2023.6.33.2.227.",
+    "apa": "노용진. (2023). 자동화기술과 생산기능 직무의 지적숙련 요건. 산업관계연구, 33(2), 227–259. https://doi.org/10.37926/KJIR.2023.6.33.2.227",
     "access": "공개 서지·초록",
     "doi": "10.37926/KJIR.2023.6.33.2.227",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "노용진, 2023"
   },
   "k-history": {
     "title": "한국 직업훈련의 제도 연혁",
@@ -397,9 +421,10 @@
     "year": "2012",
     "author": "한국산업인력공단",
     "originalTitle": "한국산업인력공단 30년사",
-    "apa": "한국산업인력공단. (2012). 한국산업인력공단 30년사.",
+    "apa": "한국산업인력공단. (2012). 한국산업인력공단 30년사. https://webzine.hrdkorea.or.kr/history/data/HRDK_30YEARS_History_Book.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "한국산업인력공단, 2012"
   },
   "timeline": {
     "title": "독일·호주·미국·한국의 비교 연표",
@@ -413,9 +438,10 @@
     "year": "2026",
     "author": "산업인력개발사 발표자료",
     "originalTitle": "독일·호주·미국·한국의 비교 연표",
-    "apa": "산업인력개발사 발표자료. (2026). 독일·호주·미국·한국의 비교 연표.",
+    "apa": "산업인력개발사 발표자료. (2026). 독일·호주·미국·한국의 비교 연표. https://01chungee10.github.io/skills-and-credentials/reading/timeline.html",
     "access": "공개 학습 페이지",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "산업인력개발사 발표자료, 2026"
   },
   "kdigital": {
     "title": "디지털 핵심 실무인재 양성훈련 공고",
@@ -429,9 +455,10 @@
     "year": "2020",
     "author": "고용노동부",
     "originalTitle": "2020년도 디지털 핵심 실무인재 양성사업(K-Digital Training) 공고",
-    "apa": "고용노동부. (2020). 2020년도 디지털 핵심 실무인재 양성사업(K-Digital Training) 공고.",
+    "apa": "고용노동부. (2020). 2020년도 디지털 핵심 실무인재 양성사업(K-Digital Training) 공고. https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20200700187",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "고용노동부, 2020"
   },
   "unesco-tvet": {
     "title": "기술·직업교육훈련의 정의",
@@ -445,42 +472,45 @@
     "year": "2015",
     "author": "UNESCO",
     "originalTitle": "Recommendation concerning technical and vocational education and training (TVET)",
-    "apa": "UNESCO. (2015). Recommendation concerning technical and vocational education and training (TVET).",
+    "apa": "UNESCO. (2015, November 13). Recommendation concerning technical and vocational education and training (TVET). https://www.unesco.org/en/legal-affairs/recommendation-concerning-technical-and-vocational-education-and-training-tvet",
     "access": "공개 원문",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "UNESCO, 2015"
   },
   "collective": {
     "title": "숙련 형성에서의 훈련 제공과 비용 분담",
-    "by": "Busemeyer, M. R., & Trampusch, C. · 2012",
-    "location": "제1장 · 국가·기업·단체 간 역할 분담",
+    "by": "Busemeyer·Trampusch · 2011",
+    "location": "제1장, 3–38쪽 · 훈련 제공과 재원 분담",
     "url": "https://doi.org/10.1093/acprof:oso/9780199599431.003.0001",
     "about": "기업과 국가가 훈련을 제공하고 비용을 부담하는 방식, 기업 자율성과 공적 감독, 일반교육과의 관계를 비교하는 연구다.",
     "check": "기준을 정하는 주체, 훈련을 제공하는 주체, 재원을 내는 주체를 구분한다.",
     "country": "비교",
     "type": "학술 단행본",
-    "year": "2012",
+    "year": "2011",
     "author": "Busemeyer, M. R., & Trampusch, C.",
     "originalTitle": "The comparative political economy of collective skill formation",
-    "apa": "Busemeyer, M. R., & Trampusch, C. (2012). The comparative political economy of collective skill formation. In M. R. Busemeyer & C. Trampusch (Eds.), The political economy of collective skill formation. Oxford University Press.",
+    "apa": "Busemeyer, M. R., & Trampusch, C. (2011). The comparative political economy of collective skill formation. In M. R. Busemeyer & C. Trampusch (Eds.), The political economy of collective skill formation (pp. 3–38). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199599431.003.0001",
     "access": "공개 초록·전문은 기관 접근 확인",
     "doi": "10.1093/acprof:oso/9780199599431.003.0001",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "Busemeyer & Trampusch, 2011"
   },
   "kr1881": {
     "title": "1881년 조사시찰단과 영선사 파견",
-    "by": "한국학중앙연구원",
+    "by": "신용하 · 1995년 집필, 2025년 수정",
     "location": "1881년 청·일 파견 단락",
     "url": "https://encykorea.aks.ac.kr/Article/E0001760",
     "about": "조선 정부가 일본에 파견한 조사시찰단과 청으로 보낸 학도·공장이 각각 맡은 일을 해설한다.",
     "check": "일본 시찰 대상과 청에서의 기술 전습을 각각 찾는다.",
     "country": "한국",
     "type": "백과사전",
-    "year": "n.d.",
-    "author": "한국학중앙연구원",
+    "year": "2025",
+    "author": "신용하",
     "originalTitle": "개화정책",
-    "apa": "한국학중앙연구원. (n.d.). 개화정책.",
+    "apa": "신용하. (2025, 3월 18일). 개화정책. 한국민족문화대백과사전. 한국학중앙연구원. https://encykorea.aks.ac.kr/Article/E0001760",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "신용하, 2025"
   },
   "kr1899": {
     "title": "1899년 상공학교 관제",
@@ -494,9 +524,10 @@
     "year": "1899",
     "author": "대한제국",
     "originalTitle": "칙령 제28호 상공학교 관제",
-    "apa": "대한제국. (1899). 칙령 제28호 상공학교 관제.",
+    "apa": "상공학교 관제, 대한제국 칙령 제28호 (1899. 6. 24.). https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0040_0040_0020",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "상공학교 관제, 1899"
   },
   "de-guild": {
     "title": "독일 견습제도의 사회사",
@@ -510,9 +541,10 @@
     "year": "2003",
     "author": "Thelen, K.",
     "originalTitle": "Institutions and social change: The evolution of vocational training in Germany",
-    "apa": "Thelen, K.. (2003). Institutions and social change: The evolution of vocational training in Germany.",
+    "apa": "Thelen, K. (2003). Institutions and social change: The evolution of vocational training in Germany. University of California, Los Angeles, Theory and Research in Comparative Social Analysis. https://escholarship.org/content/qt6ck7m443/qt6ck7m443.pdf",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Thelen, 2003"
   },
   "de1897": {
     "title": "독일제국 1897년 영업조례 개정법",
@@ -526,9 +558,10 @@
     "year": "1897",
     "author": "Deutsches Reich",
     "originalTitle": "Gesetz, betreffend die Abänderung der Gewerbeordnung. Vom 26. Juli 1897",
-    "apa": "Deutsches Reich. (1897). Gesetz, betreffend die Abänderung der Gewerbeordnung. Vom 26. Juli 1897. Deutsches Reichsgesetzblatt, 37, 663–706.",
+    "apa": "Gesetz, betreffend die Abänderung der Gewerbeordnung vom 26. Juli 1897, Reichsgesetzblatt, Nr. 37, 663–706 (1897). https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Ab%C3%A4nderung_der_Gewerbeordnung._Vom_26._Juli_1897",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Gesetz, betreffend die Abänderung der Gewerbeordnung, 1897"
   },
   "budj": {
     "title": "부지 빔의 지형·양식 시설과 지식 전수",
@@ -539,12 +572,13 @@
     "check": "시설의 기능을 확인하고 유산 등재연도와 생업 기술의 역사를 구분한다.",
     "country": "호주",
     "type": "유산 기록",
-    "year": "2019",
+    "year": "n.d.",
     "author": "UNESCO World Heritage Centre",
     "originalTitle": "Budj Bim Cultural Landscape",
-    "apa": "UNESCO World Heritage Centre. (2019). Budj Bim Cultural Landscape.",
+    "apa": "UNESCO World Heritage Centre. (n.d.). Budj Bim Cultural Landscape. https://whc.unesco.org/en/list/1577/",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "UNESCO World Heritage Centre, n.d."
   },
   "au-mech": {
     "title": "호바트와 시드니의 노동자 교육기관",
@@ -558,9 +592,10 @@
     "year": "2023",
     "author": "South Australian Heritage Council",
     "originalTitle": "Robe Institute: Summary of State Heritage Place, Heritage Number 10365",
-    "apa": "South Australian Heritage Council. (2023). Robe Institute: Summary of State Heritage Place, Heritage Number 10365.",
+    "apa": "South Australian Heritage Council. (2023). Robe Institute: Summary of state heritage place (Heritage No. 10365). https://cdn.environment.sa.gov.au/environment/docs/10365-Robe-Institute_APPROVED_7DEC2023.pdf",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "South Australian Heritage Council, 2023"
   },
   "au-colony": {
     "title": "시드니 코브의 영국 식민 정착",
@@ -571,12 +606,13 @@
     "check": "보터니베이 첫 기착과 포트잭슨의 시드니 코브에 정착한 사건을 구분한다.",
     "country": "호주",
     "type": "박물관 해설",
-    "year": "n.d.",
+    "year": "2025",
     "author": "National Museum of Australia",
     "originalTitle": "Convict cargo",
-    "apa": "National Museum of Australia. (n.d.). Convict cargo.",
+    "apa": "National Museum of Australia. (2025, September 25). Convict cargo. https://www.nma.gov.au/defining-moments/resources/convict-cargo",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "National Museum of Australia, 2025"
   },
   "tafe-apprentice": {
     "title": "TAFE 퀸즐랜드 기계 직종 견습과정",
@@ -590,9 +626,10 @@
     "year": "n.d.",
     "author": "TAFE Queensland",
     "originalTitle": "Certificate III in Engineering – Mechanical Trade",
-    "apa": "TAFE Queensland. (n.d.). Certificate III in Engineering – Mechanical Trade.",
+    "apa": "TAFE Queensland. (n.d.). Certificate III in engineering – Mechanical trade (MEM30219). https://tafeqld.edu.au/course/19/19051/certificate-iii-in-engineering-mechanical-trade",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "TAFE Queensland, n.d."
   },
   "tafe-adult": {
     "title": "TAFE 뉴사우스웨일스 고등교육 준비과정",
@@ -606,9 +643,10 @@
     "year": "n.d.",
     "author": "TAFE NSW",
     "originalTitle": "Certificate IV in Tertiary Preparation",
-    "apa": "TAFE NSW. (n.d.). Certificate IV in Tertiary Preparation.",
+    "apa": "TAFE NSW. (n.d.). Certificate IV in tertiary preparation (11225NAT-01). https://www.tafensw.edu.au/course-areas/study-and-career-pathways/courses/certificate-iv-in-tertiary-preparation--11225NAT-01/",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "TAFE NSW, n.d."
   },
   "tafe-course": {
     "title": "서호주 자율 작업장 운영 자격과정",
@@ -622,9 +660,10 @@
     "year": "2025",
     "author": "South Metropolitan TAFE",
     "originalTitle": "2025 VET Delivered to Secondary Students: Course guide",
-    "apa": "South Metropolitan TAFE. (2025). 2025 VET Delivered to Secondary Students: Course guide.",
+    "apa": "South Metropolitan TAFE. (2025). 2025 VET delivered to secondary students: Course guide. https://www.southmetrotafe.wa.edu.au/sites/default/files/2024-07/2025%20VETDSS%20bk_v10.pdf",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "South Metropolitan TAFE, 2025"
   },
   "aqf": {
     "title": "호주 자격 수준과 자격 종류",
@@ -638,9 +677,10 @@
     "year": "2013",
     "author": "Australian Qualifications Framework Council",
     "originalTitle": "Australian Qualifications Framework",
-    "apa": "Australian Qualifications Framework Council. (2013). Australian Qualifications Framework.",
+    "apa": "Australian Qualifications Framework Council. (2013). Australian Qualifications Framework (2nd ed.). https://www.aqf.edu.au/framework/australian-qualifications-framework",
     "access": "공개 원문",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Australian Qualifications Framework Council, 2013"
   },
   "us-contract": {
     "title": "아이제이아 토머스의 인쇄 견습계약",
@@ -654,9 +694,10 @@
     "year": "1756",
     "author": "Boston Overseers of the Poor",
     "originalTitle": "Indenture contract: Isaiah Thomas to Zachariah Fowle",
-    "apa": "Boston Overseers of the Poor. (1756). Indenture contract: Isaiah Thomas to Zachariah Fowle. American Antiquarian Society, record 272165.",
+    "apa": "Boston Overseers of the Poor. (1756, June 4). Indenture contract: Isaiah Thomas to Zachariah Fowle [Manuscript]. American Antiquarian Society (Record No. 272165). https://patriotprinter.org/becoming/doc-closeread.html",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Boston Overseers of the Poor, 1756"
   },
   "tuskegee": {
     "title": "터스키기 설립과 미국 남부 흑인 교육",
@@ -667,12 +708,13 @@
     "check": "교사 양성을 위한 설립 목적과 이후 학교의 교육 활동을 구분한다.",
     "country": "미국",
     "type": "박물관 해설",
-    "year": "n.d.",
+    "year": "2024",
     "author": "National Park Service",
     "originalTitle": "Alabama: Tuskegee Institute National Historic Site",
-    "apa": "National Park Service. (n.d.). Alabama: Tuskegee Institute National Historic Site.",
+    "apa": "National Park Service. (2024, February 6). Alabama: Tuskegee Institute National Historic Site. https://www.nps.gov/articles/tuskinstitute.htm",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "National Park Service, 2024"
   },
   "voc1963": {
     "title": "1963년 미국 직업교육법",
@@ -686,9 +728,10 @@
     "year": "1963",
     "author": "United States Congress",
     "originalTitle": "Vocational Education Act of 1963",
-    "apa": "United States Congress. (1963). Vocational Education Act of 1963. Pub. L. No. 88-210, 77 Stat. 403.",
+    "apa": "Vocational Education Act of 1963, Pub. L. No. 88-210, 77 Stat. 403 (1963). https://www.govinfo.gov/content/pkg/STATUTE-77/pdf/STATUTE-77-Pg403.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "Vocational Education Act of 1963, 1963"
   },
   "atlas": {
     "title": "아틀라스의 자동차 부품 취급 영상",
@@ -702,9 +745,10 @@
     "year": "2024",
     "author": "Boston Dynamics",
     "originalTitle": "Atlas goes hands on",
-    "apa": "Boston Dynamics. (2024). Atlas goes hands on.",
+    "apa": "Boston Dynamics. (2024). Atlas goes hands on [Video]. https://bostondynamics.com/video/atlas-goes-hands-on",
     "access": "제조사 공개 영상",
-    "era": "21세기"
+    "era": "21세기",
+    "shortCitation": "Boston Dynamics, 2024"
   },
   "map-base": {
     "title": "국가 위치도에 사용한 현대 행정경계",
@@ -718,9 +762,10 @@
     "year": "n.d.",
     "author": "Natural Earth",
     "originalTitle": "1:110m cultural vectors: Admin 0 – Countries",
-    "apa": "Natural Earth. (n.d.). 1:110m cultural vectors: Admin 0 – Countries.",
+    "apa": "Natural Earth. (n.d.). 1:110m cultural vectors: Admin 0 – Countries [Map data set]. https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
     "access": "공개 지도 데이터",
-    "era": "통시·개념 비교"
+    "era": "통시·개념 비교",
+    "shortCitation": "Natural Earth, n.d."
   },
   "kangan": {
     "title": "1974년 캉간 위원회 보고서",
@@ -734,9 +779,10 @@
     "year": "1974",
     "author": "Australian Committee on Technical and Further Education",
     "originalTitle": "TAFE in Australia: Report on needs in technical and further education",
-    "apa": "Australian Committee on Technical and Further Education. (1974). TAFE in Australia: Report on needs in technical and further education. Vol. 1. Australian Government Publishing Service.",
+    "apa": "Australian Committee on Technical and Further Education. (1974). TAFE in Australia: Report on needs in technical and further education (Vol. 1). Australian Government Publishing Service. https://grassroots-activism-education.sydney.edu.au/s/coe/item/10176",
     "access": "공개 서지·소장처",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "Australian Committee on Technical and Further Education, 1974"
   },
   "kangan-parl": {
     "title": "호주 의회의 TAFE 역사·재정 해설",
@@ -750,9 +796,10 @@
     "year": "2014",
     "author": "House of Representatives Standing Committee on Education and Employment",
     "originalTitle": "TAFE: An Australian asset. Chapter 1: Introduction",
-    "apa": "House of Representatives Standing Committee on Education and Employment. (2014). TAFE: An Australian asset. Chapter 1: Introduction.",
+    "apa": "House of Representatives Standing Committee on Education and Employment. (2014). TAFE: An Australian asset. Parliament of Australia. https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/243_Reps_Committees/Education_and_Employment/Inquiry_into_the_role_of_Technical_and_Further_Education_system_and_its_operation/Report/TAFE_Chapter1.pdf",
     "access": "공개 원문",
-    "era": "전후∼20세기 후반"
+    "era": "전후∼20세기 후반",
+    "shortCitation": "House of Representatives Standing Committee on Education and Employment, 2014"
   },
   "budj-photo": {
     "title": "콘다호의 뱀장어 포획시설 사진",
@@ -766,10 +813,11 @@
     "year": "2015",
     "author": "denisbin",
     "originalTitle": "Lake Condah near Heywood. Remains of Aboriginal stone eel traps.",
-    "apa": "denisbin. (2015). Lake Condah near Heywood. Remains of Aboriginal stone eel traps [Photograph]. Flickr. CC BY-ND 2.0.",
+    "apa": "denisbin. (2015, May 9). Lake Condah near Heywood. Remains of Aboriginal stone eel traps [Photograph]. Flickr. https://www.flickr.com/photos/82134796@N03/17250462020/",
     "access": "공개 사진 · CC BY-ND 2.0",
     "era": "근대 이전·19세기∼20세기 초",
-    "licenseUrl": "https://creativecommons.org/licenses/by-nd/2.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/2.0/",
+    "shortCitation": "denisbin, 2015"
   },
   "de1897-scan": {
     "title": "1897년 독일 영업조례 개정법의 관보 원면",
@@ -783,8 +831,9 @@
     "year": "1897",
     "author": "Deutsches Reich",
     "originalTitle": "Deutsches Reichsgesetzblatt 1897, Nr. 37, S. 663",
-    "apa": "Deutsches Reich. (1897). Deutsches Reichsgesetzblatt, Nr. 37, S. 663 [Digital scan]. Wikimedia Commons.",
+    "apa": "Gesetz, betreffend die Abänderung der Gewerbeordnung vom 26. Juli 1897, Reichsgesetzblatt, Nr. 37, 663–706 (1897). https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Ab%C3%A4nderung_der_Gewerbeordnung._Vom_26._Juli_1897",
     "access": "공개 원문",
-    "era": "근대 이전·19세기∼20세기 초"
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Gesetz, betreffend die Abänderung der Gewerbeordnung, 1897"
   }
 }
