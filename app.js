@@ -135,7 +135,7 @@ function updateAnimation(playing = false) {
 const visualKeys = {
   'de-draw':'de-class.jpg', 'de-shop':'de-shop.jpg','au-photo':'au-class.jpg','us-photo':'us-class.jpg',
   'bremen':'bremen.png','ulmer':'ulmer.png','goozee':'goozee.png','bowman':'bowman.png','smith':'smith.png',
-  'linkow':'linkow.png','us-contract':'us-contract.jpg','budj-photo':'budj.jpg','de1897-scan':'de1897.png',
+  'linkow':'linkow.png','oecd':'oecd.png','dol':'dol.png','us-contract':'us-contract.jpg','budj-photo':'budj.jpg','de1897-scan':'de1897.png',
   'morrill':'morrill.png','tafe-course':'tafe-course.png','atlas':'atlas.gif'
 };
 function showVisuals(slide) {

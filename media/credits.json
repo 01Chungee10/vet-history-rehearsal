@@ -198,5 +198,25 @@
     "description": "호바트 1827년과 시드니 1833년 기술교육기관 설립 위치를 표시한 지도",
     "width": 960,
     "height": 470
+  },
+  {
+    "filename": "media/oecd.png",
+    "role": "원문 발췌",
+    "source": "OECD · 독일 BIBB 사례",
+    "url": "https://doi.org/10.1787/e9f76b4e-en",
+    "credit": "OECD. (2026). Developing vocational education and training with artificial intelligence. OECD Publishing. doi:10.1787/e9f76b4e-en.",
+    "description": "독일 BIBB가 AI로 훈련규정 작성을 지원하는 절차를 시험한 사례",
+    "width": 1378,
+    "height": 537
+  },
+  {
+    "filename": "media/dol.png",
+    "role": "원문 발췌",
+    "source": "미국 노동부 · 2026",
+    "url": "https://www.dol.gov/agencies/eta/advisories/ten-07-25",
+    "credit": "U.S. Department of Labor, Employment and Training Administration. (2026). The U.S. Department of Labor’s Artificial Intelligence Literacy Framework. Training and Employment Notice No. 07-25.",
+    "description": "미국 노동부 AI 리터러시 프레임워크에서 제시한 AI 리터러시의 범위",
+    "width": 1410,
+    "height": 211
   }
 ]
