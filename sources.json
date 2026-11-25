@@ -835,5 +835,22 @@
     "access": "공개 원문",
     "era": "근대 이전·19세기∼20세기 초",
     "shortCitation": "Gesetz, betreffend die Abänderung der Gewerbeordnung, 1897"
+  },
+  "barrows": {
+    "title": "농업 직업교육의 재정과 감독 실습",
+    "by": "H. P. Barrows · 미국 교육국 · 1920",
+    "location": "제4장 · 인쇄본 75쪽 · State standards",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I16-1338c16798d757e0869b6b5022325d88/pdf/GOVPUB-I16-1338c16798d757e0869b6b5022325d88.pdf",
+    "about": "연방 보조금을 받는 농업교육에서 학교나 협력 농장의 감독 아래 연간 최소 6개월간 실습하도록 정한 조건을 설명한다.",
+    "check": "연방의 지원 기준이 학교의 실습 장소와 기간에 어떻게 적용되었는지 살펴본다.",
+    "country": "미국",
+    "type": "교육국 보고서",
+    "year": "1920",
+    "author": "H. P. Barrows",
+    "originalTitle": "Development of agricultural instruction in secondary schools",
+    "apa": "Barrows, H. P. (1920). Development of agricultural instruction in secondary schools (Bureau of Education Bulletin, 1919, No. 85). Government Printing Office. https://www.govinfo.gov/content/pkg/GOVPUB-I16-1338c16798d757e0869b6b5022325d88/pdf/GOVPUB-I16-1338c16798d757e0869b6b5022325d88.pdf",
+    "access": "공개 원문",
+    "era": "근대 이전·19세기∼20세기 초",
+    "shortCitation": "Barrows, 1920"
   }
 }

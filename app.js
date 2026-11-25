@@ -145,6 +145,8 @@ function showVisuals(slide) {
     const region = slide.chapter.includes('독일') ? 'de' : slide.chapter.includes('호주') ? 'au' : 'us';
     files.add('map-' + region + '.png');
   }
+  const extracts = {7:'de-committee.png',12:'au-aeroskills.png',18:'us-supervised.png'};
+  if (extracts[slide.id]) files.add(extracts[slide.id]);
   if (slide.id === 10) files.add('map-au-schools.gif');
   const rows = credits.filter(item => files.has(item.filename.split('/').pop())).map(item => {
     const fig = node('figure'), caption = node('figcaption');

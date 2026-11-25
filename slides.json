@@ -194,7 +194,7 @@
         "노사 전문가의 기업훈련 초안과 주의 학교 교육과정 조정"
       ]
     ],
-    "script": "1969년 서독은 기업훈련에 적용할 공통 법적 조건을 정했습니다. 연방의회 답변의 브레멘 항목에는 두 날짜가 나옵니다. 위원회 설치를 결정한 때는 1969년 12월이고, 첫 회의는 이듬해 2월입니다. 법이 만들어진 뒤 지역에서 조직과 절차를 마련한 것입니다. 후대의 직종 기준 개발 연구에서는 또 다른 분담을 확인할 수 있습니다. 기업훈련규정은 노사 전문가가 초안을 쓰고, 직업학교 교육과정은 주 전문가들이 작성합니다. 두 초안을 조정해야 기업에서 하는 일과 학교에서 가르칠 내용이 같은 직종의 요구에 맞게 됩니다.",
+    "script": "1969년 서독은 기업훈련에 적용할 공통 법적 조건을 정했습니다. 연방의회 답변의 브레멘 항목에는 두 날짜가 나옵니다. 위원회 설치를 결정한 때는 1969년 12월이고, 첫 회의는 이듬해 2월입니다. 법이 만들어진 뒤 지역에서 조직과 절차를 마련한 것입니다. 후대의 직종 기준 개발 연구에서는 또 다른 분담을 확인할 수 있습니다. 기업훈련규정은 노사 전문가가 초안을 쓰고, 직업학교 교육과정은 주 전문가들이 작성합니다. 두 초안을 조정해야 기업에서 하는 일과 학교에서 가르칠 내용이 같은 직종의 요구에 맞게 됩니다. 답변서 둘째 쪽에 브레멘, 함부르크, 니더작센, 라인란트팔츠가 열거되어 있습니다. 법이 제정된 시점과 주별 위원회가 활동을 시작한 시점 사이에는 간격이 있었습니다.",
     "sources": [
       "gesetz",
       "bremen",
@@ -337,11 +337,12 @@
         "뉴사우스웨일스 Certificate IV · 11225NAT"
       ]
     ],
-    "script": "퀸즐랜드와 뉴사우스웨일스의 TAFE가 안내하는 두 과정을 보겠습니다. 퀸즐랜드의 기계 직종 Certificate III, 과정 코드 MEM30219는 기계 조립·정비 분야 견습생을 위한 자격과정입니다. 견습생은 고용주의 현장에서 일하고, TAFE에서 직무 이론과 실기를 배웁니다. 뉴사우스웨일스의 Certificate IV in Tertiary Preparation은 목적이 다릅니다. 과정 코드 11225NAT로, 대학 진학을 준비하는 학습자가 진학에 필요한 공부를 하고 입학에 활용할 점수를 얻는 경로입니다. 학교를 떠난 뒤 다시 공부하는 성인에게는 이런 진입 경로가 중요합니다. 같은 TAFE에서 직종 자격과 상급교육 진학이라는 서로 다른 목표를 지원하는 것입니다.",
+    "script": "퀸즐랜드와 뉴사우스웨일스의 TAFE가 안내하는 두 과정을 보겠습니다. 퀸즐랜드의 기계 직종 Certificate III, 과정 코드 MEM30219는 기계 조립·정비 분야 견습생을 위한 자격과정입니다. 견습생은 고용주의 현장에서 일하고, TAFE에서 직무 이론과 실기를 배웁니다. 뉴사우스웨일스의 Certificate IV in Tertiary Preparation은 목적이 다릅니다. 과정 코드 11225NAT로, 대학 진학을 준비하는 학습자가 진학에 필요한 공부를 하고 입학에 활용할 점수를 얻는 경로입니다. 학교를 떠난 뒤 다시 공부하는 성인에게는 이런 진입 경로가 중요합니다. 같은 TAFE에서 직종 자격과 상급교육 진학이라는 서로 다른 목표를 지원하는 것입니다. 서호주의 중등학생에게는 예비견습 경로도 있습니다. 과정 안내표에는 주 2일의 수업과 캠퍼스 격납고 실습이 적혀 있습니다. 상위 과정의 학점 인정에는 고용주의 견습생 선발이라는 조건이 따릅니다.",
     "sources": [
       "tafe-apprentice",
       "tafe-adult",
-      "goozee"
+      "goozee",
+      "tafe-course"
     ],
     "question": "견습생과 성인 학습자가 TAFE에서 받는 교육의 목적과 운영 방식은 어떻게 다른가?"
   },
@@ -504,10 +505,11 @@
         "교사 급여의 용도 제한과 교과 운영의 분리"
       ]
     ],
-    "script": "1917년 법령집 929쪽의 첫머리에는 연방이 주와 협력해 직업교육과 직업교사 양성을 지원한다는 목적이 나옵니다. 주는 학교와 교사를 어떻게 지원할지 계획을 마련해야 했고, 주나 지방도 대응 재원을 부담했습니다. 학교에서는 보조금을 어디에 쓸 수 있는지가 중요했습니다. 지정된 직업교과 교사의 급여에 쓸 수 있는 예산과 일반교과를 운영할 예산의 범위가 달랐습니다. 헤이워드와 벤슨은 이 차이가 직업교과와 일반교과의 분리에 기여했다고 해석했습니다. 이처럼 연방은 재정 지원의 조건을 통해 학교의 인력 운용에 영향을 줄 수 있었습니다.",
+    "script": "1917년 법령집 929쪽의 첫머리에는 연방이 주와 협력해 직업교육과 직업교사 양성을 지원한다는 목적이 나옵니다. 주는 학교와 교사를 어떻게 지원할지 계획을 마련해야 했고, 주나 지방도 대응 재원을 부담했습니다. 학교에서는 보조금을 어디에 쓸 수 있는지가 중요했습니다. 지정된 직업교과 교사의 급여에 쓸 수 있는 예산과 일반교과를 운영할 예산의 범위가 달랐습니다. 헤이워드와 벤슨은 이 차이가 직업교과와 일반교과의 분리에 기여했다고 해석했습니다. 이처럼 연방은 재정 지원의 조건을 통해 학교의 인력 운용에 영향을 줄 수 있었습니다. 미국 교육국이 1920년에 발간한 자료는 농업교육의 지원 요건을 구체적으로 설명합니다. 학교가 마련한 농장이나 다른 농장에서 해마다 최소 6개월 동안 지도·감독하에 농작업을 실습해야 했습니다. 이 요건은 농업 분야에 해당합니다.",
     "sources": [
       "smith",
-      "hayward"
+      "hayward",
+      "barrows"
     ],
     "question": "법 조문에 있는 보조금 조건과 교과 분리에 관한 후대 연구의 해석을 어떻게 구분할까?"
   },
@@ -688,180 +690,21 @@
   },
   {
     "id": 25,
-    "title": "참고문헌 (1/12)",
+    "title": "주요 참고문헌",
     "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
+    "lead": "",
     "points": [],
-    "script": "이 장에는 Amazon, n.d., Australian Committee on Technical and Further Education, 1974, Australian Qualifications Framework Council, 2013, Bootmaking class, 1909의 전체 서지정보와 원문 링크를 수록했습니다.",
+    "script": "전체 인용문헌과 사료는 참고문헌 메뉴에서 열 수 있습니다.",
+    "question": "",
     "sources": [
-      "amazon",
       "kangan",
-      "aqf",
-      "au-photo"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 26,
-    "title": "참고문헌 (2/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Boston Dynamics, 2024, Boston Overseers of the Poor, 1756, Bowman & McKenna, 2016, Bundesinstitut für Berufsbildung, n.d.-a의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "atlas",
-      "us-contract",
-      "bowman",
-      "bibb18"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 27,
-    "title": "참고문헌 (3/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Bundesinstitut für Berufsbildung, n.d.-b, Bundesminister für Arbeit und Sozialordnung, 1970, Busemeyer & Trampusch, 2011, denisbin, 2015의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "gesetz",
+      "barrows",
       "bremen",
-      "collective",
-      "budj-photo"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 28,
-    "title": "참고문헌 (4/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Department of Employment and Workplace Relations, 2024, Department of Industry, Science and Resources, 2024, Dortch & Skinner, 2026, Federal Ministry of Education and Research, 2020의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "nsa",
-      "robot",
-      "crs",
-      "exam"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 29,
-    "title": "참고문헌 (5/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Gesetz, betreffend die Abänderung der Gewerbeordnung, 1897, Goozee, 2001, Hayward & Benson, 1993, House of Representatives Standing Committee on Education and Employment, 2014의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "de1897",
       "goozee",
-      "hayward",
-      "kangan-parl"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 30,
-    "title": "참고문헌 (6/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Jobs and Skills Australia, 2025, Johnston, ca. 1902, Lehrwerkstätte für Grobmechaniker, after 1900, Linkow et al., 2026의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "jsa",
-      "us-photo",
-      "de-shop",
-      "linkow"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 31,
-    "title": "참고문헌 (7/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Morrill Act, 1862, National Museum of Australia, 2025, National Park Service, 2024, Natural Earth, n.d.의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "morrill",
-      "au-colony",
-      "tuskegee",
-      "map-base"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 32,
-    "title": "참고문헌 (8/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 OECD, 2026, Smith–Hughes Act, 1917, South Australian Heritage Council, 2023, South Metropolitan TAFE, 2025의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "oecd",
       "smith",
-      "au-mech",
-      "tafe-course"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 33,
-    "title": "참고문헌 (9/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 TAFE NSW, n.d., TAFE Queensland, n.d., Thelen, 2003, U.S. Department of Labor, Employment and Training Administration, 2026의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "tafe-adult",
-      "tafe-apprentice",
-      "de-guild",
-      "dol"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 34,
-    "title": "참고문헌 (10/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Ulmer et al., 2021, UNESCO, 2015, UNESCO World Heritage Centre, n.d., Vocational Education Act of 1963, 1963의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "ulmer",
+      "tafe-course",
       "unesco-tvet",
-      "budj",
-      "voc1963"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 35,
-    "title": "참고문헌 (11/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 Zeichensaal der Lehrlings- und Fortbildungsschule, 1908, 노용진, 2023, 산업인력개발사 발표자료, 2026, 상공학교 관제, 1899의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "de-draw",
-      "noh",
-      "timeline",
-      "kr1899"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
-  },
-  {
-    "id": 36,
-    "title": "참고문헌 (12/12)",
-    "chapter": "참고문헌",
-    "lead": "본문 인용 문헌",
-    "points": [],
-    "script": "이 장에는 신용하, 2025, 한국산업인력공단, 2012의 전체 서지정보와 원문 링크를 수록했습니다.",
-    "sources": [
-      "kr1881",
-      "k-history"
-    ],
-    "question": "해당 문헌의 원문은 오른쪽 자료 링크에서 열 수 있습니다."
+      "noh"
+    ]
   }
 ]

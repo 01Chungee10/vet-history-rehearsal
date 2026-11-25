@@ -218,5 +218,35 @@
     "description": "미국 노동부 AI 리터러시 프레임워크에서 제시한 AI 리터러시의 범위",
     "width": 1410,
     "height": 211
+  },
+  {
+    "filename": "media/de-committee.png",
+    "role": "사료 발췌",
+    "source": "브레멘 직업훈련위원회 설치 기록",
+    "url": "https://dserver.bundestag.de/btd/06/007/0600778.pdf#page=1",
+    "credit": "Bundesminister für Arbeit und Sozialordnung, 1970",
+    "description": "1970년 5월 서독 정부가 보고한 주별 위원회 구성 현황. 답변서 2쪽.",
+    "width": 567,
+    "height": 207
+  },
+  {
+    "filename": "media/au-aeroskills.png",
+    "role": "사료 발췌",
+    "source": "서호주 자율 작업장 운영 자격과정",
+    "url": "https://www.southmetrotafe.wa.edu.au/sites/default/files/2024-07/2025%20VETDSS%20bk_v10.pdf#page=63",
+    "credit": "South Metropolitan TAFE, 2025",
+    "description": "학생 대상 항공정비 예비견습 과정의 수업일과 격납고 실습 요건. 과정 안내 16쪽.",
+    "width": 1238,
+    "height": 215
+  },
+  {
+    "filename": "media/us-supervised.png",
+    "role": "사료 발췌",
+    "source": "농업 직업교육의 재정과 감독 실습",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I16-1338c16798d757e0869b6b5022325d88/pdf/GOVPUB-I16-1338c16798d757e0869b6b5022325d88.pdf",
+    "credit": "Barrows, 1920",
+    "description": "미국 농업 직업교육의 감독 실습 장소와 기간. 1920년 교육국 보고서 75쪽.",
+    "width": 984,
+    "height": 258
   }
 ]
