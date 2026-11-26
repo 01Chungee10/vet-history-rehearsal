@@ -1,9 +1,10 @@
 # 독일·호주·미국 직업교육훈련의 형성과 변화
 
-[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r012.pptx)
+[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r014.pptx)
 
-산업인력개발사 발표 본문 24장, 참고문헌 12장과 장별 낭독 대본을 수록한 한국어 워크북입니다. 왼쪽은 슬라이드와 대본, 가운데는 자료 목록, 오른쪽은 선택한 자료의 설명과 읽을 위치입니다.
+산업인력개발사 발표 본문 24장, 주요 참고문헌 한 장과 장별 낭독 대본을 수록한 한국어 워크북입니다. 왼쪽은 슬라이드와 대본, 가운데는 자료 목록, 오른쪽은 선택한 자료의 설명과 읽을 위치입니다.
 
+- 첫 장에서 세 교실의 사진을 40초 오프닝으로 재생할 수 있습니다. [한국어 해설 영상](https://01chungee10.github.io/vet-history-rehearsal/media/opening-narrated.mp4)
 - 국가별 장표의 오른쪽 위 역사 탐색기에서 시기를 선택해 관련 장표로 이동합니다. 휴대전화에서도 같은 탐색기를 사용할 수 있습니다.
 - 목록과 좌우 방향키로 장표를 옮깁니다. 이미지를 누르면 확대되고 Esc로 닫힙니다.
 - 장표와 자료를 함께 공유할 수 있습니다. [1917년 스미스·휴스법 원문과 장표](https://01chungee10.github.io/vet-history-rehearsal/#slide-18/ref-smith)

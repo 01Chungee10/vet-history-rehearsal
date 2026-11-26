@@ -208,6 +208,38 @@ function renderHistory(slide) {
   }
 }
 
+function showOpening(visible) {
+  const film = byId('opening-film');
+  if (visible && !film.hasAttribute('src')) film.src = 'media/opening-narrated.mp4';
+  if (!visible && !byId('opening').hidden) {
+    film.pause();
+    if (film.readyState > 0) film.currentTime = 0;
+    byId('opening-status').textContent = '';
+  }
+  byId('opening').hidden = byId('opening-actions').hidden = !visible;
+  byId('zoom').hidden = visible;
+}
+function bindOpening() {
+  const film = byId('opening-film');
+  const play = async muted => {
+    film.muted = muted;
+    if (film.ended) film.currentTime = 0;
+    try {
+      await film.play();
+      byId('opening-status').textContent = '';
+    } catch {
+      byId('opening-status').textContent = '영상 재생이 중단되었습니다. 재생 버튼이나 영상 내려받기를 이용해 주세요.';
+    }
+  };
+  byId('opening-voice').addEventListener('click', () => play(false));
+  byId('opening-silent').addEventListener('click', () => play(true));
+  for (const button of byId('opening').querySelectorAll('[data-at]')) {
+    button.addEventListener('click', () => {
+      film.pause();
+      film.currentTime = Number(button.dataset.at);
+    });
+  }
+}
 function renderSlide(id, sourceKey) {
   const found = slides.findIndex(slide => slide.id === id);
   current = found < 0 ? 0 : found;
@@ -222,6 +254,7 @@ function renderSlide(id, sourceKey) {
   byId('slide-img').src = 'slides/' + pad(slide.id) + '.webp';
   byId('slide-img').alt = slide.alt || slide.title;
   byId('zoom').disabled = false;
+  showOpening(slide.id === 1);
   byId('script').textContent = slide.script;
   byId('question').textContent = slide.question || '';
   byId('question').closest('aside').hidden = !slide.question;
@@ -350,6 +383,7 @@ function studyPlan() {
 function route(first = false) {
   const hash = location.hash;
   const view = hash==='#reading'?'study':hash==='#bibliography'||hash.startsWith('#source-')?'bib':'slide';
+  if (view !== 'slide') showOpening(false);
   const changed = view!==activeView;
   activeView=view;
   for(const v of ['slide','bib','study']){
@@ -386,6 +420,7 @@ function go(idx) { if(idx>=0&&idx<slides.length)location.hash=slideUrl(slides[id
 async function init() {
   [slides,sources,credits]=await Promise.all([getData('slides.json'),getData('sources.json'),getData('media/credits.json')]);
   combineHoldings();
+  bindOpening();
   const picker=byId('picker'); picker.replaceChildren();
   let group;
   slides.forEach((s,i)=>{
@@ -433,7 +468,7 @@ async function init() {
   byId('close').addEventListener('click',()=>viewer.close());
   viewer.addEventListener('click',e=>{if(e.target===viewer)viewer.close();});
   document.addEventListener('keydown',e=>{
-    if(activeView!=='slide'||viewer.open||e.altKey||e.ctrlKey||e.metaKey||e.shiftKey||e.target.closest('select,input,textarea,[contenteditable=true]'))return;
+    if(activeView!=='slide'||viewer.open||e.altKey||e.ctrlKey||e.metaKey||e.shiftKey||e.target.closest('select,input,textarea,video,[contenteditable=true]'))return;
     if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();go(current+(e.key==='ArrowLeft'?-1:1));}
   });
   route(true);
