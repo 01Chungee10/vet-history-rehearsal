@@ -54,8 +54,11 @@ function combineHoldings() {
     used.get(key).push(slide);
   }));
 }
-function openLinks(key, allowLocalSetup = true) {
-  const s = sources[key], container = node('div', '', 'source-actions');
+function sourceForSlide(key) {
+  return {...sources[key], ...slides[current].sourceDetails?.[key]};
+}
+function openLinks(key, allowLocalSetup = true, source = sources[key]) {
+  const s = source, container = node('div', '', 'source-actions');
   if (s.url) container.append(link(s.holding && !used.has(key) ? '발행처·자료 ↗' : '자료 열기 ↗', s.url, true));
   if (s.doi) {
     const doiUrl = s.doi.startsWith('http') ? s.doi : 'https://doi.org/' + s.doi;
@@ -65,7 +68,7 @@ function openLinks(key, allowLocalSetup = true) {
     const h = s.holding, normalized = h.file.normalize('NFC');
     if (localFiles.has(normalized)) {
       if (!localUrls.has(normalized)) localUrls.set(normalized, URL.createObjectURL(localFiles.get(normalized)));
-      container.append(link('보유 PDF 열기 ↗', localUrls.get(normalized) + '#page=' + h.page, true));
+      container.append(link('보유 PDF 열기 ↗', localUrls.get(normalized) + '#page=' + (s.localPage || h.page), true));
     } else if (allowLocalSetup) {
       const button = node('button','보유 PDF 연결','text-button');
       button.type = 'button';
@@ -86,7 +89,7 @@ function openLinks(key, allowLocalSetup = true) {
 function selectSource(key, userSelected = false) {
   activeKey = key;
   byId('nav-slides').href = slideUrl(slides[current].id,key);
-  const s = sources[key];
+  const s = sourceForSlide(key);
   document.querySelectorAll('.choose').forEach(button =>
     button.setAttribute('aria-pressed', String(button.dataset.key === key)));
   byId('material').textContent = locationHint(s);
@@ -96,7 +99,7 @@ function selectSource(key, userSelected = false) {
   const claim = slides[current].claims?.[key] || '';
   byId('claim').textContent = claim;
   byId('claim').hidden = !claim;
-  const links = openLinks(key);
+  const links = openLinks(key, true, s);
   links.append(link('전체 서지정보 →',refUrl(key)));
   byId('annotation-links').replaceChildren(links);
   if (userSelected && matchMedia('(max-width:820px)').matches) {
@@ -105,7 +108,7 @@ function selectSource(key, userSelected = false) {
   }
 }
 function makeReference(key) {
-  const s = sources[key], row = node('div','','ref'), button = node('button','','choose');
+  const s = sourceForSlide(key), row = node('div','','ref'), button = node('button','','choose');
   button.type = 'button';
   button.dataset.key = key;
   button.setAttribute('aria-controls','annotation');
@@ -146,6 +149,7 @@ function showVisuals(slide) {
     files.add('map-' + region + '.png');
   }
   const extracts = {7:'de-committee.png',12:'au-aeroskills.png',18:'us-supervised.png'};
+  if (slide.id === 12) files.delete('tafe-course.png');
   if (extracts[slide.id]) files.add(extracts[slide.id]);
   if (slide.id === 10) files.add('map-au-schools.gif');
   const rows = credits.filter(item => files.has(item.filename.split('/').pop())).map(item => {
