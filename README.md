@@ -1,6 +1,6 @@
 # 독일·호주·미국 직업교육훈련의 형성과 변화
 
-[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r016.pptx)
+[발표 준비실](https://01chungee10.github.io/vet-history-rehearsal/) · [전체 참고문헌](https://01chungee10.github.io/vet-history-rehearsal/#bibliography) · [읽기 순서](https://01chungee10.github.io/vet-history-rehearsal/#reading) · [PowerPoint](https://01chungee10.github.io/vet-history-rehearsal/presentation-r017.pptx)
 
 산업인력개발사 발표 본문 24장, 주요 참고문헌 한 장과 장별 낭독 대본을 수록한 한국어 워크북입니다. 왼쪽은 슬라이드와 대본, 가운데는 자료 목록, 오른쪽은 선택한 자료의 설명과 읽을 위치입니다.
 
