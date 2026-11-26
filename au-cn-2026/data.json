@@ -1,0 +1,943 @@
+{
+  "title": "외국 직업교육훈련의 역사: 호주·중국",
+  "subtitle": "산업과 교육의 관계 및 숙련 형성체제의 역사적 재편",
+  "sources": [
+    {
+      "id": "review",
+      "ref": "박주원. (2026). 직업교육 관련 학술단체의 역사 [수업 발표자료]. 서울대학교.",
+      "url": "",
+      "type": "수업자료",
+      "loc": "pp. 8–17, 21–27",
+      "status": "수업자료 대조 · 비공개 원본 미게시",
+      "short": "박주원, 2026"
+    },
+    {
+      "id": "unesco",
+      "ref": "UNESCO. (2015). Recommendation concerning technical and vocational education and training (TVET).",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-technical-and-vocational-education-and-training-tvet?hub=249867",
+      "type": "국제 권고",
+      "loc": "§§ 1–2",
+      "status": "공식 본문 확인",
+      "short": "UNESCO, 2015"
+    },
+    {
+      "id": "goozee",
+      "ref": "Goozee, G. (2001). The development of TAFE in Australia (3rd ed.). National Centre for Vocational Education Research.",
+      "url": "https://www.ncver.edu.au/research-and-statistics/publications/all-publications/the-development-of-tafe-in-australia",
+      "type": "역사 연구",
+      "loc": "pp. 11–12, 24–28",
+      "status": "로컬 PDF 확인",
+      "short": "Goozee, 2001"
+    },
+    {
+      "id": "bowman",
+      "ref": "Bowman, K., & McKenna, S. (2016). The development of Australia's national training system: A dynamic tension between consistency and flexibility. National Centre for Vocational Education Research.",
+      "url": "https://www.ncver.edu.au/research-and-statistics/publications/all-publications/the-development-of-australias-national-training-system-a-dynamic-tension-between-consistency-and-flexibility",
+      "type": "역사·정책 연구",
+      "loc": "pp. 7–8, 16, Table 1",
+      "status": "로컬 PDF 확인",
+      "short": "Bowman & McKenna, 2016"
+    },
+    {
+      "id": "yang",
+      "ref": "Yang, Y., & Zheng, J. (2025). Borrowing from Western countries? China’s vocational education, 1840–1895. Vocations and Learning, 18, Article 14. https://doi.org/10.1007/s12186-025-09368-3",
+      "url": "https://doi.org/10.1007/s12186-025-09368-3",
+      "type": "동료심사 연구",
+      "loc": "pp. 1, 15, 17",
+      "status": "AutoSNUAPI 실시간 PDF 확보",
+      "short": "Yang & Zheng, 2025"
+    },
+    {
+      "id": "yangchia",
+      "ref": "Yang, Y., & Chia, Y.-T. (2024). Understanding educational policy transfer: An analysis of the Japanese influence on China’s vocational education. Compare: A Journal of Comparative and International Education. https://doi.org/10.1080/03057925.2023.2204990",
+      "url": "https://doi.org/10.1080/03057925.2023.2204990",
+      "type": "동료심사 연구",
+      "loc": "1902·1904·1913 학제 관련 본문 검색 결과",
+      "status": "SNU Primo 검색·웹 발췌 확인, PDF 미확보",
+      "short": "Yang & Chia, 2024"
+    },
+    {
+      "id": "navec",
+      "ref": "National Association of Vocational Education of China. (2021). Building a path for the right to development through vocational education (A/HRC/48/NGO/29). United Nations.",
+      "url": "https://digitallibrary.un.org/record/3937489/files/A_HRC_48_NGO_29-EN.pdf",
+      "type": "단체 제출 회고문",
+      "loc": "1917년 설립 및 목적",
+      "status": "공개 문서 확인; 1917년 원문 아님",
+      "short": "National Association of Vocational Education of China, 2021"
+    },
+    {
+      "id": "miao",
+      "ref": "Miao, W. (2024). The policy, system and performance of the technical and vocational school education in China: A historical perspective (1949–2022). Journal of Global Studies, 14, 45–74.",
+      "url": "https://global-studies.doshisha.ac.jp/file/JGSvol.14%20%283Miao%29.pdf",
+      "type": "역사 연구",
+      "loc": "pp. 48–50, 62–66",
+      "status": "로컬 PDF 확인; 2024년 3월 발행",
+      "short": "Miao, 2024"
+    },
+    {
+      "id": "adb",
+      "ref": "Asian Development Bank. (2022). Crossing the river by touching the stones: Alternative approaches in technical and vocational education and training in the People’s Republic of China and the Republic of Korea. https://doi.org/10.22617/TCS220019-2",
+      "url": "https://www.adb.org/sites/default/files/publication/767571/alternative-approaches-tvet-prc-republic-korea.pdf",
+      "type": "비교 역사·정책 연구",
+      "loc": "pp. x, 57, 60–61",
+      "status": "로컬 PDF 확인",
+      "short": "Asian Development Bank, 2022"
+    },
+    {
+      "id": "wb",
+      "ref": "World Bank. (1987). Technical/vocational education for China's development (Report No. 6789-CHA).",
+      "url": "https://documents1.worldbank.org/curated/en/521811468243259338/pdf/multi-page.pdf",
+      "type": "당대 정책 평가 및 문서 수록",
+      "loc": "p. 14, Appendix 2, p. 1",
+      "status": "로컬 PDF 확인",
+      "short": "World Bank, 1987"
+    },
+    {
+      "id": "auact",
+      "ref": "Technical and Further Education Commission Act 1975 (Cth) No. 42, ss. 3, 6–7 (Austl.).",
+      "url": "https://www.legislation.gov.au/C2004A00264/asmade/1975-05-27/text/original/pdf/1",
+      "type": "제정 법령",
+      "loc": "ss. 7(2)–(3), PDF p. 4",
+      "status": "공식 PDF 로컬 확보",
+      "short": "Technical and Further Education Commission Act 1975 (Cth), s. 7"
+    },
+    {
+      "id": "oecd",
+      "ref": "OECD. (1998). Pathways and participation in vocational and technical education and training. OECD Publishing. https://doi.org/10.1787/9789264162273-en",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/1998/01/pathways-and-participation-in-vocational-and-technical-education-and-training_g1gh2359/9789264162273-en.pdf",
+      "type": "국제 비교 연구",
+      "loc": "p. 35",
+      "status": "공개 PDF 본문 확인",
+      "short": "OECD, 1998"
+    },
+    {
+      "id": "law96",
+      "ref": "Vocational Education Law of the People’s Republic of China, Presidential Order No. 69 (1996).",
+      "url": "https://en.moe.gov.cn/documents/laws_policies/201506/t20150626_191390.html",
+      "type": "제정 법령·공식 영문판",
+      "loc": "arts. 1–7, 14",
+      "status": "공식 HTML 로컬 확보",
+      "short": "Vocational Education Law of the PRC, 1996"
+    },
+    {
+      "id": "law22",
+      "ref": "Vocational Education Law of the People’s Republic of China, Presidential Order No. 112 (2022).",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html",
+      "type": "개정 법령·중문",
+      "loc": "arts. 2–6, 27, 30–31, 51–53",
+      "status": "공식 HTML 로컬 확보",
+      "short": "Vocational Education Law of the PRC, 2022"
+    },
+    {
+      "id": "misko02",
+      "ref": "Misko, J., Liu, Y., Ouyang, H., Jiang, L., & Phan, O. (2002). Linkages between secondary and post-secondary vocational education and training in China and Australia. National Centre for Vocational Education Research.",
+      "url": "https://www.ncver.edu.au/research-and-statistics/publications/all-publications/linkages-between-secondary-and-post-secondary-vocational-education-and-training-in-china-and-australia",
+      "type": "양국 공동연구",
+      "loc": "pp. 3, 8–14, 125–132; 공식 요약",
+      "status": "공개 PDF 본문·공식 요약 확인; 로컬 PDF 미확보",
+      "short": "Misko et al., 2002"
+    },
+    {
+      "id": "misko05",
+      "ref": "Misko, J., Liu, Y., Jiang, D., Wu, Q., & Wang, Z. (2005). Linking vocational education and training with industry in Australia and China. National Centre for Vocational Education Research.",
+      "url": "https://www.ncver.edu.au/sites/default/files/ncver-documents/cp0409.pdf",
+      "type": "양국 공동연구",
+      "loc": "pp. 5–10, 31–37, 51–55",
+      "status": "공개 PDF 본문 확인; 로컬 PDF 미확보",
+      "short": "Misko et al., 2005"
+    },
+    {
+      "id": "moeproject",
+      "ref": "Ministry of Education of the People’s Republic of China. (n.d.). 中国－澳大利亚重庆职业教育与培训项目 [Australia–China (Chongqing) vocational education and training project].",
+      "url": "https://www.moe.gov.cn/moe_879/moe_207/moe_43/moe_351/tnull_3546.html",
+      "type": "사업 소개·공식 기록",
+      "loc": "사업 기간·5개 시범학교",
+      "status": "웹 캐시 본문 확인; 로컬 원문 접근 불가",
+      "short": "Ministry of Education of the PRC, n.d."
+    },
+    {
+      "id": "icr",
+      "ref": "Tippett, P., & Simmons, V. (2007, November). Independent completion report: Australia China (Chongqing) vocational education and training project (ACCVETP). Australian Agency for International Development.",
+      "url": "https://www.dfat.gov.au/sites/default/files/china-vocational-education-and-training-progress-icr.pdf",
+      "type": "사업 종결 평가",
+      "loc": "pp. 6–9, 12, 17",
+      "status": "공개 PDF 본문 확인; 로컬 PDF 미확보",
+      "short": "Tippett & Simmons, 2007"
+    },
+    {
+      "id": "cnreform",
+      "ref": "State Council of the People’s Republic of China. (2019, January 24). 国家职业教育改革实施方案 [National vocational education reform implementation plan] (国发〔2019〕4号).",
+      "url": "https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201904/t20190404_376701.html",
+      "type": "정부 정책",
+      "loc": "총괄 요구·구체적 지표",
+      "status": "공식 본문 확인",
+      "short": "State Council of the PRC, 2019"
+    },
+    {
+      "id": "cnplan",
+      "ref": "Central Committee of the Communist Party of China, & State Council of the People’s Republic of China. (2025, January 19). 教育强国建设规划纲要（2024—2035年） [Outline for building a leading country in education (2024–2035)].",
+      "url": "https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202501/t20250119_1176193.html",
+      "type": "정부 계획",
+      "loc": "§§ 20–23",
+      "status": "공식 본문 확인",
+      "short": "CPC Central Committee & State Council of the PRC, 2025"
+    },
+    {
+      "id": "standards",
+      "ref": "Ministry of Education of the People’s Republic of China. (2025, February 19). MOE unveils 758 professional teaching standards for vocational education.",
+      "url": "https://en.moe.gov.cn/news/press_releases/202502/t20250219_1179697.html",
+      "type": "공식 발표",
+      "loc": "758개 기준 및 수준별 분류",
+      "status": "공식 본문 확인",
+      "short": "Ministry of Education of the PRC, 2025"
+    },
+    {
+      "id": "cnrobot",
+      "ref": "Ministry of Education of the People’s Republic of China. (2026, July 15). 《职业教育专业目录》增补27个新专业 为经济社会高质量发展提供人才支撑 [Addition of 27 majors to the vocational education catalogue].",
+      "url": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202607/t20260715_1443823.html",
+      "type": "공식 발표",
+      "loc": "2026년 인형로봇·디지털트윈 등 신설 전공",
+      "status": "공식 본문 확인",
+      "short": "Ministry of Education of the PRC, 2026"
+    },
+    {
+      "id": "nsag",
+      "ref": "Department of Employment and Workplace Relations. (n.d.-a). National Skills Agreement.",
+      "url": "https://www.dewr.gov.au/national-skills-agreement",
+      "type": "공식 협약 소개",
+      "loc": "2024.1.1. 개시·5년 협약",
+      "status": "공식 본문 확인",
+      "short": "Department of Employment and Workplace Relations, n.d.-a"
+    },
+    {
+      "id": "fee",
+      "ref": "Department of Employment and Workplace Relations. (n.d.-b). Free TAFE.",
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "type": "공식 정책",
+      "loc": "2023–2026년 지원·우선 대상",
+      "status": "공식 본문 확인",
+      "short": "Department of Employment and Workplace Relations, n.d.-b"
+    },
+    {
+      "id": "ncver25",
+      "ref": "National Centre for Vocational Education Research. (2026, July 22). Total VET students and courses 2025.",
+      "url": "https://www.ncver.edu.au/research-and-statistics/publications/all-publications/total-vet-students-and-courses-2025",
+      "type": "공식 통계",
+      "loc": "2025년 nationally recognised VET 학생 및 자격 등록",
+      "status": "공식 본문 확인",
+      "short": "NCVER, 2026"
+    },
+    {
+      "id": "nbs",
+      "ref": "National Bureau of Statistics of China. (2026, February 28). Statistical communiqué of the People’s Republic of China on the 2025 national economic and social development.",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html",
+      "type": "공식 통계",
+      "loc": "교육 항목·중등 직업교육 재학생",
+      "status": "공식 본문 확인",
+      "short": "National Bureau of Statistics of China, 2026"
+    },
+    {
+      "id": "jsa",
+      "ref": "Jobs and Skills Australia. (2025, August 14). Our Gen AI transition: Implications for work and skills (Final overarching report).",
+      "url": "https://www.jobsandskills.gov.au/publications/our-gen-ai-transition-implications-work-and-skills",
+      "type": "정부 연구",
+      "loc": "PDF pp. 8–10",
+      "status": "로컬 PDF 확인",
+      "short": "Jobs and Skills Australia, 2025"
+    },
+    {
+      "id": "rii",
+      "ref": "Australian Government. (2022, October 19). RII21222 Certificate II in Autonomous Workplace Operations [Release 1]. National Training Register.",
+      "url": "https://training.gov.au/training/details/RII21222",
+      "type": "공식 자격 등록",
+      "loc": "자격 설명·4개 필수 및 6개 선택 단위",
+      "status": "공식 등록부 확인",
+      "short": "Australian Government, 2022"
+    },
+    {
+      "id": "kr",
+      "ref": "직업훈련기본법, 법률 제2973호 (1976).",
+      "url": "https://law.go.kr/LSW/lsInfoP.do?lsiSeq=4801",
+      "type": "한국 제정 법령",
+      "loc": "제1~2조, 1977.1.1. 시행",
+      "status": "공식 법령 확인",
+      "short": "직업훈련기본법, 1976"
+    },
+    {
+      "id": "krnabo",
+      "ref": "국회예산정책처. (2025). 2025 대한민국 사회보험.",
+      "url": "https://www.nabo.go.kr/board/file/down.do?fid=33318732",
+      "type": "공식 정책 연혁",
+      "loc": "p. 244, 표 125",
+      "status": "공개 본문 확인",
+      "short": "국회예산정책처, 2025"
+    }
+  ],
+  "slides": [
+    {
+      "id": "01",
+      "section": "회고",
+      "sec": 150,
+      "title": "직업교육 관련 학술단체의 역사",
+      "type": "research",
+      "content": [
+        "학문적 제도화",
+        "학술단체·학술지·전문 연구공동체의 형성",
+        "연구영역 분화",
+        "학교 직업교육에서 성인교육·기업교육·HRD로의 확장",
+        "국가별 형성 경로",
+        "미국의 실천·정책단체 / 독일의 대학 교수직 / 한국의 영역별 학회"
+      ],
+      "claim": "학문적 연구대상의 확장과 직업교육훈련체제의 역사적 변화 연결",
+      "sources": [
+        "review"
+      ],
+      "notes": "박주원(2026)의 13주차 발표 회고. Clark의 학문적 제도화와 연구대상·교육내용의 두 방향 분화 정리. 미국·독일·한국의 학술단체 형성 경로 비교. 학술단체의 역사는 교육훈련 연구영역의 확장에 대한 기록으로 활용. 이번 발표에서는 미국·독일·일본을 제외하고 학습기회와 산업 참여의 변화를 호주·중국의 역사로 확장.",
+      "citation": "(박주원, 2026)"
+    },
+    {
+      "id": "02",
+      "section": "도입",
+      "sec": 60,
+      "title": "호주·중국 직업교육훈련의 역사",
+      "type": "hero",
+      "content": [
+        "2000",
+        "양국 협력 양해각서",
+        "2002·2005",
+        "공동 비교연구",
+        "2002–2007",
+        "충칭 직업교육훈련 협력사업"
+      ],
+      "claim": "상이한 제도적 발전과 실제 정책 교류의 결합",
+      "sources": [
+        "misko02",
+        "misko05",
+        "icr"
+      ],
+      "notes": "2000년 8월 11일 베이징에서 체결된 양국의 VET 협력 양해각서 기록 확인(Misko et al., 2002, p. 8). 이후 중등·고등 VET 학습경로와 산업연계에 관한 공동연구 수행. 충칭 사업의 설계와 운영을 통해 교육훈련제도의 비교가 실제 정책 교류로 연결된 사례 제시. 19세기 제도 형성부터 기술 변화 대응까지의 역사적 추적 제안.",
+      "citation": "(Misko et al., 2002, p. 8; Misko et al., 2005; Tippett & Simmons, 2007)"
+    },
+    {
+      "id": "03",
+      "section": "도입",
+      "sec": 70,
+      "title": "직업교육훈련의 개념과 분석 범위",
+      "type": "research",
+      "content": [
+        "교육 목적",
+        "직업 진입·과업 수행·숙련 향상 및 직업 전환",
+        "학습 대상",
+        "청소년·성인·재직자·구직자",
+        "조직 형태",
+        "견습·직업학교·기업훈련·공공훈련의 공존"
+      ],
+      "claim": "현대적 정의와 과거 교육활동의 역사적 맥락 구별",
+      "sources": [
+        "unesco",
+        "law22"
+      ],
+      "notes": "UNESCO 권고 제1~2항의 TVET 정의: 생산·서비스·생업 관련 교육·훈련·능력개발 포괄. 중국 2022년 법 제2조의 학교교육·직업훈련 포함 확인. 생업 기술 전승, 조직화된 교육활동, 국가적 제도화의 구별. 과거의 학교·견습을 현대 자격제도나 평생학습 정의에 일률적으로 소급하지 않는 분석 범위 설정.",
+      "citation": "(UNESCO, 2015; Vocational Education Law of the PRC, 2022)"
+    },
+    {
+      "id": "04",
+      "section": "도입",
+      "sec": 75,
+      "title": "비교 국가 선정의 학술적 근거",
+      "type": "research",
+      "content": [
+        "수업 범위의 확장",
+        "전주 미국·독일·일본 중심 논의의 보완",
+        "직접 비교연구",
+        "중등–고등 교육경로 및 산업연계 공동연구",
+        "실제 정책 교류",
+        "충칭 사업의 설계·이행·평가 자료"
+      ],
+      "claim": "국가적 다양성, 비교 가능성 및 상호 정책학습의 결합",
+      "sources": [
+        "misko02",
+        "misko05",
+        "icr"
+      ],
+      "notes": "두 나라의 정치경제적 전통·규모·교육행정 차이를 비교의 전제로 설정. Misko 등 2002년 연구의 학습경로 및 2005년 연구의 산업연계라는 공통 문제 활용. 충칭 사업의 실제 상호교류를 통한 정책이전·현지화 분석. 두 사례의 비교를 세계 전체의 대표 유형 또는 제도 우열 평가로 일반화하지 않는 연구 경계 설정.",
+      "citation": "(Misko et al., 2002; Misko et al., 2005; Tippett & Simmons, 2007)"
+    },
+    {
+      "id": "05",
+      "section": "도입",
+      "sec": 60,
+      "title": "시대 구분과 공통 비교 기준",
+      "type": "timeline",
+      "content": [
+        "1820s–1949|기술교육기관의 형성|식민지 기술교육 / 청말·민국 교육개혁|1899 상공학교 관제",
+        "1949–1977|전후·산업화와 교육 목적|TAFE 개혁 / 계획경제기 훈련|1967 직업훈련법·1976 기본법",
+        "1978–1999|노동시장·체제 재편|1992 국가훈련체제 / 1996 직업교육법|1995 고용보험 직업능력개발",
+        "2000–2007|정책 교류|공동연구·충칭 사업|2000년대 직업능력개발 체계",
+        "2010–2026|학습경로·기술 전환|국가 자격·재훈련 / 산학협력·신전공|한국 제조현장 연구과제"
+      ],
+      "claim": "동일 시기 비교와 국가별 전환점의 구별",
+      "sources": [
+        "goozee",
+        "bowman",
+        "miao",
+        "misko02",
+        "icr",
+        "kr",
+        "krnabo"
+      ],
+      "notes": "공통 비교 기준: 교육 목적, 학습 대상 및 접근 조건, 교육 제공 책임, 숙련 평가·인정. 시대 구분은 자료의 확보 가능성과 교육훈련 정책의 구조적 변화에 근거한 발표자 설정. 1949년 중화인민공화국 성립 이후와 그 이전의 체제 구별. 한국은 동시대 참조축으로 활용하며 제3의 본격 비교 대상으로 취급하지 않는 범위 설정.",
+      "citation": "(Bowman & McKenna, 2016; Goozee, 2001; Miao, 2024; Misko et al., 2002; Tippett & Simmons, 2007; 국회예산정책처, 2025; 직업훈련기본법, 1976)"
+    },
+    {
+      "id": "06",
+      "section": "Ⅰ. 형성",
+      "sec": 70,
+      "title": "근대 기술교육기관의 형성",
+      "type": "compare",
+      "content": [
+        "호주|1827–1833|호바트 기계공교육기관 / 시드니 기술·교양교육기관|영국의 노동자 교육운동 수용과 식민지별 운영",
+        "중국|1860년대|양무운동과 외국 기술의 수용 / 조선·항해·기계 교육기관|국방·산업 발전에 필요한 기술 인력 양성"
+      ],
+      "claim": "유사한 기술교육 수요와 상이한 정치·사회적 형성 조건",
+      "sources": [
+        "goozee",
+        "yang"
+      ],
+      "notes": "호주: 1827년 Hobart Mechanics Institute, 1833년 Sydney Mechanics School of Arts 등 성인 노동자의 과학·기술·교양 접근을 위한 기관의 형성. 주·식민지별 구조의 역사적 차이(Goozee, 2001, pp. 11–12). 중국: 전쟁과 내부·외부 위기에 대한 양무운동 개혁가의 대응, 서구 기술의 선택적 수용(Yang & Zheng, 2025). 호주 원주민의 생업 기술 전승은 근대 식민 교육기관의 직접 기원과 구별.",
+      "citation": "(Goozee, 2001; Yang & Zheng, 2025)"
+    },
+    {
+      "id": "07",
+      "section": "Ⅰ. 형성",
+      "sec": 75,
+      "title": "푸저우 조선·항해 교육의 조직화",
+      "type": "source",
+      "content": [
+        "1866–1867",
+        "푸저우 조선기관·해군학교의 형성",
+        "프랑스어 과정",
+        "선박 건조 기술",
+        "영어 과정",
+        "항해·선박기관·해군 지휘"
+      ],
+      "claim": "산업기술 도입과 외국어·실무 교육의 결합",
+      "sources": [
+        "yang"
+      ],
+      "notes": "Yang과 Zheng의 2025년 전문 p. 17에서 푸저우 해군학교의 1867년 설립과 프랑스어·영어 과정 확인. 선정기관의 1866년 설치와 교육기관의 개설 시점 구별. 조선·항해 등 국가적 기술 수요와 외국어·이론·실무 교육의 결합. 외국 모델의 단순 복제가 아닌 선택적 수용이라는 저자 해석 구별. 원자료 자체는 저자가 인용한 19세기 문헌의 추가 대조 필요.",
+      "citation": "(Yang & Zheng, 2025, pp. 15–17)"
+    },
+    {
+      "id": "08",
+      "section": "Ⅰ. 형성",
+      "sec": 70,
+      "title": "직업교육의 제도화와 민간 참여",
+      "type": "compare",
+      "content": [
+        "호주|19세기 말~20세기 초|기계공교육기관에서 기술학교로의 발전 / 식민지·주별 조직화|견습계약과 학교교육의 연계",
+        "중국|1902·1904·1913·1917|일본 학제의 선택적 수용 / 중화직업교육사 설립|교육계·실업계의 직업교육 진흥"
+      ],
+      "claim": "교육기관의 성장과 산업·교육계의 참여 확대",
+      "sources": [
+        "goozee",
+        "yangchia",
+        "navec"
+      ],
+      "notes": "호주는 기술교육기관의 설립 이후 주별 관리체계와 견습훈련의 발전. 중국은 1902·1904·1913년 학제 개편에서 일본 직업교육 모델의 참조(Yang & Chia, 2024, 검색 결과의 본문 발췌; 전문 미확보). 1917년 황염배 등이 중화직업교육사를 설립한 사실과 교육·노동·생활의 연계에 관한 2021년 단체 회고 기록. 해당 단체 제출 문서는 1917년 선언문 원본이 아닌 후대의 자기 서술.",
+      "citation": "(Goozee, 2001; National Association of Vocational Education of China, 2021; Yang & Chia, 2024)"
+    },
+    {
+      "id": "09",
+      "section": "Ⅱ. 전후·산업화",
+      "sec": 75,
+      "title": "전후 기술인력 양성과 체제의 변화",
+      "type": "timeline",
+      "content": [
+        "1949–1950s|전후 기술인력 수요|호주 주정부 기술교육 / 중국 1951 학제 개편·공장부설학교|한국 전후 복구",
+        "1960s|산업구조와 교육체제|호주 기술교육 재원 논의 / 중국 교육·생산노동 결합 및 문화대혁명|1967 직업훈련법",
+        "1973–1977|교육훈련 목적과 제도 재정비|호주 1974 캉간 보고서·1975 위원회법 / 중국 직업교육의 위축·재개 전환|1976 직업훈련기본법"
+      ],
+      "claim": "전후 산업인력 수요와 학습기회의 비대칭적 변화",
+      "sources": [
+        "goozee",
+        "miao",
+        "adb",
+        "kr",
+        "krnabo"
+      ],
+      "notes": "동일한 시기이나 각국의 문제 상황과 전환점의 차이 확인. 호주는 주정부 기술교육의 공공 재정 확대에 관한 논의, 중국은 계획경제의 산업화와 1966~1976년 문화대혁명에 따른 교육의 중단·위축. 한국은 1967년 직업훈련법과 1976년 직업훈련기본법을 동시대 참고축으로 배치.",
+      "citation": "(Asian Development Bank, 2022; Goozee, 2001; Miao, 2024; 국회예산정책처, 2025; 직업훈련기본법, 1976)"
+    },
+    {
+      "id": "10",
+      "section": "Ⅱ. 전후·산업화",
+      "sec": 85,
+      "title": "중국 계획경제기의 산업훈련체제",
+      "type": "research",
+      "content": [
+        "1951년 학제 개편",
+        "중등 단계 기술교육의 제도적 편입",
+        "국유기업·산업부처",
+        "공장 부설 기술학교와 숙련공 양성",
+        "1958년 이후",
+        "교육과 생산노동 결합 및 반공반독 방식"
+      ],
+      "claim": "계획경제의 인력배치와 생산현장 중심 숙련 형성",
+      "sources": [
+        "adb",
+        "miao",
+        "misko05"
+      ],
+      "notes": "ADB(2022, pp. 57, 60–61)의 역사 문헌·면담 분석: 1950년대~1980년대 중반 국가와 국유기업의 직업진입 훈련 참여, 공장부설 기술학교와 숙련공의 지도. 1951년 학제 개편과 중등 기술교육 강화. 1958년 이후 일과 학습의 결합 및 반공반독 방식 전개. 문화대혁명 기간의 정치적 비판과 학교교육의 위축(Miao, 2024, pp. 48–49). 모든 학교·산업에 동일한 운영 방식이 적용되었다는 일반화 배제.",
+      "citation": "(Asian Development Bank, 2022; Miao, 2024; Misko et al., 2005)"
+    },
+    {
+      "id": "11",
+      "section": "Ⅱ. 전후·산업화",
+      "sec": 80,
+      "title": "호주 캉간 개혁의 역사적 배경",
+      "type": "research",
+      "content": [
+        "재정·시설 부족",
+        "대학 등 타 교육 부문과의 지원 격차",
+        "접근 제약",
+        "지역·성별·원주민·장애 등 학습기회 제약",
+        "1973–1974 조사",
+        "산업계·노동조합·주정부·교육 관계자 참여"
+      ],
+      "claim": "산업인력 수요와 개인의 계속교육 요구에 대한 공공적 대응",
+      "sources": [
+        "goozee"
+      ],
+      "notes": "Goozee(2001, pp. 24–26)의 정부 보고서 및 역사 서술: 1973년 4월 26일 위원회 구성 발표, 1974년 보고서 제출. 기술교육의 전국적 조사, 시설·상담·도서관 등 지원서비스 부족 및 지역·집단별 접근 제약 확인. 캉간 보고서는 기술교육이 산업과 직업 내용에 대한 현실적 대응을 유지하면서 개인의 교육 요구 및 반복교육에 대응할 것을 권고. 보고서 원문 자체는 직접 확보되지 않아 Goozee의 인용 및 재구성으로 구분.",
+      "citation": "(Goozee, 2001)"
+    },
+    {
+      "id": "12",
+      "section": "Ⅱ. 전후·산업화",
+      "sec": 90,
+      "title": "1975년 기술·계속교육의 법적 목적",
+      "type": "lawimage",
+      "content": [
+        "제7조 제2항",
+        "모든 사람의 비교 가능한 교육시설 이용기회 증진",
+        "제7조 제3항 (a)",
+        "개인의 교육 요구",
+        "제7조 제3항 (b)·(c)",
+        "국가의 숙련인력 요구 및 자원의 경제적 활용"
+      ],
+      "claim": "교육기회·산업인력 수요·자원 활용의 동시 고려",
+      "sources": [
+        "auact"
+      ],
+      "notes": "호주 기술·계속교육위원회법 1975년 제7조 제2항 및 제3항의 실제 원문 대조. 제2항의 위원회 활동 목적과 제3항의 고려사항 구분. 개인 교육 요구, 국가의 훈련된 인력 및 숙련 요구, 경제적 자원 활용의 법적 병치. 법령은 위원회의 활동 조건을 규정한 기록이며 개별 학습자의 권리 실현이나 실제 참여 성과에 대한 직접 증거가 아님.",
+      "citation": "(Technical and Further Education Commission Act 1975 (Cth), s. 7(2)–(3))"
+    },
+    {
+      "id": "13",
+      "section": "Ⅱ. 전후·산업화",
+      "sec": 95,
+      "title": "제도적 기회와 실제 교육 참여의 구별",
+      "type": "data",
+      "content": [
+        "1973|400,700",
+        "1975|671,013",
+        "중국|1966–1976|문화대혁명기 직업교육의 위축 및 교육체제 불균형"
+      ],
+      "claim": "등록 규모·학교 운영 기록과 제도적 목적의 별도 검증",
+      "sources": [
+        "goozee",
+        "oecd",
+        "miao"
+      ],
+      "notes": "Goozee(2001, p. 28)와 OECD(1998, p. 35)의 1973년 400,700, 1975년 671,013 TAFE 등록 수치 대조. 등록금 폐지·재정지원·과정 확대 등 동시 변화의 고려. Goozee 서술의 59%와 두 원수치로 계산한 약 67.5%의 불일치로 증가율 표기 제외. 중국은 문화대혁명기 학교 기반 직업교육 위축과 회복의 역사 연구를 별도 지표로 제시. 양국의 등록 규모 또는 성과를 직접 비교하지 않는 근거 경계 설정.",
+      "citation": "(Goozee, 2001, p. 28; Miao, 2024; OECD, 1998, p. 35)"
+    },
+    {
+      "id": "14",
+      "section": "Ⅲ. 체제 재편",
+      "sec": 65,
+      "title": "시장경제와 숙련 형성체제의 재편",
+      "type": "timeline",
+      "content": [
+        "1978–1985|중국 개혁개방과 교육구조 조정|호주 산업기술·경제구조 변화 / 중국 1985 교육체제 개혁|한국 산업구조 변화",
+        "1992–1996|국가훈련체제와 직업교육 법제|호주 1992 국가훈련체제 / 중국 1996 직업교육법|1995 고용보험 직업능력개발",
+        "1990년대 후반|학습경로와 노동시장 연계|공인 자격 및 산업연계 / 학교기반 훈련 및 고용제도 재편|한국 근로자 직업능력개발"
+      ],
+      "claim": "훈련의 시장 대응성 및 학습경로 조정의 부상",
+      "sources": [
+        "bowman",
+        "miao",
+        "adb",
+        "krnabo"
+      ],
+      "notes": "1978년 중국 개혁개방 이후 중등교육 구조 조정과 고등직업교육 발전, 1985년 교육체제 개혁. 호주는 1980년대 이후 산업·노동시장 변화 및 1992년 9개 정부의 국가훈련체제 합의. 1990년대 중국의 노동시장 제도 전환과 학교기반 훈련의 확대. 두 국가의 시장 관련 개혁을 동일한 민영화 과정으로 취급하지 않는 역사적 조건의 구별.",
+      "citation": "(Asian Development Bank, 2022; Bowman & McKenna, 2016; Miao, 2024; 국회예산정책처, 2025)"
+    },
+    {
+      "id": "15",
+      "section": "Ⅲ. 체제 재편",
+      "sec": 90,
+      "title": "1985년 중국 교육체제 개혁의 문제 인식",
+      "type": "source",
+      "content": [
+        "기술인력 수요",
+        "과학기술 전문가와 중·초급 기술인력의 동시 필요",
+        "교육구조 조정",
+        "일반교육 대비 직업교육의 취약성 진단",
+        "정책 수단",
+        "중등 직업교육 확대 및 기업의 참여"
+      ],
+      "claim": "경제 현대화와 학교교육 구조 조정의 연결",
+      "sources": [
+        "wb",
+        "miao"
+      ],
+      "notes": "1987년 세계은행 당시 보고서 p. 14 및 Appendix 2 p. 1의 1985년 중국 교육체제 개혁 결정 영문 수록본 검토. 직업·기술교육의 취약한 위치 진단, 중등 교육구조 개편 및 기술인력 공급의 목표 제시. 1990년 신규 중등교육 입학 비율 목표는 정책 목표로 구분하고 실적 단정 배제. 세계은행 수록 번역본과 중국어 제정 원문 미확보의 구별.",
+      "citation": "(Miao, 2024; World Bank, 1987, Appendix 2, p. 1)"
+    },
+    {
+      "id": "16",
+      "section": "Ⅲ. 체제 재편",
+      "sec": 90,
+      "title": "1992년 호주 국가훈련체제의 형성",
+      "type": "research",
+      "content": [
+        "전국적 일관성",
+        "국가적으로 인정되는 과정·자격 및 훈련기관 등록",
+        "산업 대응성",
+        "산업계와 훈련기관의 협력·역량 기반 훈련",
+        "학습기회와 효율",
+        "공공·민간 제공기관 및 접근·형평성"
+      ],
+      "claim": "전국적 일관성과 지역·산업·학습자 요구의 조정",
+      "sources": [
+        "bowman",
+        "misko05"
+      ],
+      "notes": "Bowman과 McKenna(2016, p. 16, Table 1)의 1992년 합의 목표와 정책 수단 재구성. 국가적으로 조정된 체제, 산업 수요 대응, 학습기회·형평성 및 공공·민간 제공기관의 참여를 함께 제시한 기록. 역량 기반 훈련과 국가인정의 정책적 기능 구별. 연구자의 역사적 종합표로서 당대 협약 원문 자체와 구별.",
+      "citation": "(Bowman & McKenna, 2016, Table 1; Misko et al., 2005)"
+    },
+    {
+      "id": "17",
+      "section": "Ⅲ. 체제 재편",
+      "sec": 80,
+      "title": "1996년 중국 직업교육법의 제정",
+      "type": "law",
+      "content": [
+        "제1·3조",
+        "경제·사회 발전과 고용, 사회주의 시장경제에 맞는 직업교육체제",
+        "제5·7조",
+        "시민의 교육권 및 농촌·취약집단 지원",
+        "제14조",
+        "취업 전·견습·재직·직업전환 등 직업훈련"
+      ],
+      "claim": "학교교육과 직업훈련의 법적 포괄 및 학습 대상의 다양화",
+      "sources": [
+        "law96"
+      ],
+      "notes": "1996년 5월 15일 제정·9월 1일 시행의 구별. 제1조와 제3조에서 경제·사회 발전과 고용을 위한 체제 구축, 제5조 시민의 법률상 교육권, 제7조 농촌·소수민족·빈곤지역 및 여성·실업자·장애인 지원. 제14조 취업 전, 군 제대자, 견습, 재직, 전환훈련 등 직업훈련 유형 확인. 제도적 대상과 실제 접근 및 교육성과의 구별.",
+      "citation": "(Vocational Education Law of the PRC, 1996, arts. 1–7, 14)"
+    },
+    {
+      "id": "18",
+      "section": "Ⅳ. 양국 교류",
+      "sec": 70,
+      "title": "양국의 직업교육훈련 협력 연표",
+      "type": "timeline",
+      "content": [
+        "2000.08.11|협력 양해각서|베이징에서 정보교류·협력 합의|정책 교류의 제도적 기반",
+        "2002|학습경로 공동연구|중등–고등 VET 연결과 계속학습 경로|국가 간 공동 진단",
+        "2005|산업연계 공동연구|산업계 참여·견습·교육기관 협력 비교|현지 운영 조건 분석",
+        "2002–2007|충칭 협력사업|5개 시범학교·역량 기반 교육과정|2007년 종결 평가"
+      ],
+      "claim": "비교연구와 실제 교육훈련 협력의 역사적 연결",
+      "sources": [
+        "misko02",
+        "misko05",
+        "icr",
+        "moeproject"
+      ],
+      "notes": "2000년 양해각서와 2002·2005년 공동연구, 2002~2007년 협력사업을 동일 시간축에서 구별. 연구 결과가 사업 설계를 직접 초래했다는 인과적 서술 배제. 실제 양국의 연구기관과 정부가 공통 문제를 다룬 기록의 연계.",
+      "citation": "(Ministry of Education of the PRC, n.d.; Misko et al., 2002; Misko et al., 2005; Tippett & Simmons, 2007)"
+    },
+    {
+      "id": "19",
+      "section": "Ⅳ. 양국 교류",
+      "sec": 100,
+      "title": "2002년 공동연구: 학습경로의 연계",
+      "type": "compare",
+      "content": [
+        "호주|AQF·훈련패키지|학교 단계에서 직업자격 취득 가능 / 선행학습 인정 및 학점 이전|교육기관 간 연계의 제도적 구조",
+        "중국|중등–고등 연계|3+2 및 5년 연속 과정의 시범 운영 / 입학시험·학점 인정|교육단계 사이의 반복 학습과 연계 문제"
+      ],
+      "claim": "상이한 교육체제에서 후속 학습의 가능성 확대",
+      "sources": [
+        "misko02"
+      ],
+      "notes": "Misko et al.(2002)의 당시 양국 비교에서 호주는 AQF·훈련패키지·학점이전과 선행학습 인정, 중국은 3+2·5년 과정·입학시험·학점전환 시범의 제시. 연구가 지적한 교육내용의 중복, 표준 및 인정의 차이 설명. 사례는 2002년 시점의 제도와 지역별 프로그램에 관한 연구이며 현재 제도의 포괄적 현황으로 소급하지 않는 해석.",
+      "citation": "(Misko et al., 2002)"
+    },
+    {
+      "id": "20",
+      "section": "Ⅳ. 양국 교류",
+      "sec": 90,
+      "title": "2005년 공동연구: 산업계와 교육기관의 관계",
+      "type": "compare",
+      "content": [
+        "호주|견습계약·산업계 참여|고용주의 유급 일터훈련 및 훈련시간 제공 / 산업별 훈련패키지|산업계와 등록 훈련기관의 조정",
+        "중국|기업·학교·산업조직|국유기업 중심 훈련의 변화 / 현장실습·학교기업·산업협회|시장경제기 기업 참여 유인과 조정 문제"
+      ],
+      "claim": "공통된 산업연계 목적과 제도적 실행 조건의 차이",
+      "sources": [
+        "misko05",
+        "adb"
+      ],
+      "notes": "Misko et al.(2005, pp. 51–55)에서 양국의 산업–교육훈련 연계 목적과 정책 수단 비교. 호주 견습훈련의 역사적 기반 및 산업계 자문, 중국의 정치경제 개혁과 기업·산업협회 역할 변화. 정부 재원·시설 지원의 공통 필요성 및 기업 참여 유인 차이. 2005년 조사에서 제시된 평가를 현재 전체 기업에 일반화하지 않는 범위 설정.",
+      "citation": "(Asian Development Bank, 2022; Misko et al., 2005)"
+    },
+    {
+      "id": "21",
+      "section": "Ⅳ. 양국 교류",
+      "sec": 100,
+      "title": "충칭 협력사업의 시범 운영과 확산",
+      "type": "project",
+      "content": [
+        "자동차",
+        "전자",
+        "건축",
+        "전자상거래",
+        "관광·숙박"
+      ],
+      "claim": "시범학교의 역량 기반 교육과정 및 산업계 협력의 현지 적용",
+      "sources": [
+        "moeproject",
+        "icr"
+      ],
+      "notes": "중국 교육부 사업 소개의 5개 시범학교 분야: 자동차·전자·건축·전자상거래·관광. 2002~2007년 협력사업에서 산업계 요구에 대응하는 교육훈련, 교원 연수 및 교육·평가 방식의 개선 추진. ICR p. 8은 추가 파트너 학교 및 교원양성기관 참여를 포함해 종결 당시 53개 기관의 참여를 보고. 53은 참여 기관 수이며 학습자 수·완료 수·전국 확산 규모가 아님.",
+      "citation": "(Ministry of Education of the PRC, n.d.; Tippett & Simmons, 2007)"
+    },
+    {
+      "id": "22",
+      "section": "Ⅳ. 양국 교류",
+      "sec": 75,
+      "title": "협력사업의 평가와 증거의 한계",
+      "type": "research",
+      "content": [
+        "보고된 변화",
+        "산업계 조정기구·교수학습·평가 방식의 개선",
+        "평가 설계",
+        "기존 기술자문단 소속 2인의 종결 평가",
+        "검증 한계",
+        "중국 현지 방문 미실시 및 기초선·KPI 자료 제약"
+      ],
+      "claim": "제도의 이전과 실제 학습·고용 성과의 분리",
+      "sources": [
+        "icr"
+      ],
+      "notes": "2007년 독립 종결보고서의 pp. 6–9, 12, 17 검토. 평가자는 기존 Technical Advisory Group 소속으로 사업에 관여한 경험 보유. 중국 현지 방문 없이 호주에서 평가 수행, 수혜자와의 직접 확인 제한. 기초선과 KPI 수집 제약에 따른 일부 일화적 근거 의존 지적. 참여·교육과정 변화의 보고와 학생 숙련·취업에 대한 인과효과를 분리하여 판단.",
+      "citation": "(Tippett & Simmons, 2007, pp. 6–9, 12, 17)"
+    },
+    {
+      "id": "23",
+      "section": "Ⅴ. 최근 재편",
+      "sec": 75,
+      "title": "직업교육훈련의 질과 학습경로 재편",
+      "type": "compare",
+      "content": [
+        "호주|1992 이후~2020년대|국가적 자격 인정·공공 및 민간 훈련시장 / 국가적 일관성과 제공 방식의 유연성|품질·접근·재정의 조정",
+        "중국|2019–2022|국가 직업교육 개혁 실시방안 / 직업교육법 전면 개정|규모 확대에서 질·산업 적합성 및 학습경로 강화"
+      ],
+      "claim": "훈련기준과 교육 제공·학습경로의 지속적인 재조정",
+      "sources": [
+        "bowman",
+        "cnreform",
+        "law22"
+      ],
+      "notes": "호주 1992년 이후의 체제 발전에서 일관성과 유연성의 긴장 및 학생 지원·훈련시장의 조정. 중국 2019년 실시방안은 산업고도화, 기업 참여 부족, 실습시설과 제도 기준 문제를 진단하고 질 개선과 다원적 교육 제공을 지향. 2022년 개정법의 후속 규율. 2019년 계획 목표와 실제 달성의 구별.",
+      "citation": "(Bowman & McKenna, 2016; State Council of the PRC, 2019; Vocational Education Law of the PRC, 2022)"
+    },
+    {
+      "id": "24",
+      "section": "Ⅴ. 최근 재편",
+      "sec": 85,
+      "title": "2019년 중국 직업교육 개혁의 정책 수단",
+      "type": "research",
+      "content": [
+        "1+X 증서 제도",
+        "학력증서와 복수 직업기능등급증서 시범",
+        "산학협력·실습",
+        "기업 참여와 생산현장 실습 기반 강화",
+        "교원과 교육내용",
+        "이론·실무 역량을 갖춘 교원 및 기준 정비"
+      ],
+      "claim": "직업교육의 질과 산업 수요에 대한 적응성 제고",
+      "sources": [
+        "cnreform"
+      ],
+      "notes": "2019년 국무원 실시방안 국발 2019년 4호에서 직업교육과 일반교육의 동등한 중요성, 정부 총괄·다원적 교육 제공, 질 개선 강조. 1+X 증서 제도는 2019년부터의 시범사업으로 명시됨. 실습교육 과목·시간 및 이론과 실무 역량을 갖춘 교원에 관한 정책 방향과 목표는 실제 운영성과와 구별.",
+      "citation": "(State Council of the PRC, 2019)"
+    },
+    {
+      "id": "25",
+      "section": "Ⅴ. 최근 재편",
+      "sec": 80,
+      "title": "2022년 중국 직업교육법의 학습기회",
+      "type": "law",
+      "content": [
+        "제3조",
+        "일반교육과 동등한 중요 지위",
+        "제30조",
+        "신규·재직·전환 근로자 및 학생 대상 견습훈련",
+        "제51·53조",
+        "학습성과의 학점 전환 가능성과 진학·취업·직업발전의 평등한 기회"
+      ],
+      "claim": "교육경로·일터학습·사회적 인정의 법적 확대",
+      "sources": [
+        "law22"
+      ],
+      "notes": "2022년 4월 20일 개정, 5월 1일 시행. 제3조 일반교육과 동등한 중요 지위. 제30조 중국 특색 견습제 추진과 신규·재직·전환 근로자, 학교 공동 모집 학생을 대상으로 하는 협력훈련. 제51조 학교 인정에 따른 훈련성과의 학점 전환, 제53조 진학·고용·직업발전에서 동등 기회. 모든 직업학교 졸업자가 일반교육 졸업자와 동일한 실질 결과를 달성했다는 의미가 아님.",
+      "citation": "(Vocational Education Law of the PRC, 2022, arts. 3, 30, 51, 53)"
+    },
+    {
+      "id": "26",
+      "section": "Ⅴ. 최근 재편",
+      "sec": 55,
+      "title": "호주 국가숙련협약과 교육 접근 지원",
+      "type": "research",
+      "content": [
+        "2024–2028",
+        "연방·주·준주의 5년 국가숙련협약",
+        "2023–2026",
+        "Free TAFE 교육·훈련 기회 지원",
+        "우선 대상",
+        "청년·구직자·원주민·장애인 등 대상 집단"
+      ],
+      "claim": "1970년대 교육 접근 논의와 현재 재정 지원의 비교",
+      "sources": [
+        "nsag",
+        "fee",
+        "goozee"
+      ],
+      "notes": "2024년 1월 1일 국가숙련협약 개시와 5년 협력. Free TAFE의 2023~2026년 지원 및 우선 대상 확인. 1974~1975년 공공 기술교육 접근의 정책 목표와 현재 재정 지원의 역사적 연속성은 발표자의 분석. 무상훈련 지원 자리와 실제 등록·수료·고용성과의 구별.",
+      "citation": "(Department of Employment and Workplace Relations, n.d.-a; Department of Employment and Workplace Relations, n.d.-b; Goozee, 2001)"
+    },
+    {
+      "id": "27",
+      "section": "Ⅵ. 기술 전환",
+      "sec": 55,
+      "title": "교육훈련 참여 통계의 비교 범위",
+      "type": "data2",
+      "content": [
+        "호주|2025|510만 명|국가 인정 VET 학생",
+        "중국|2025|1,537.8만 명|중등 직업교육 재학생"
+      ],
+      "claim": "통계의 모집단 및 교육 수준 차이에 따른 직접 비교 제한",
+      "sources": [
+        "ncver25",
+        "nbs"
+      ],
+      "notes": "호주 NCVER 2025년 국가 인정 VET 학생 약 510만 명(국내·국제, 등록훈련기관). 중국 국가통계국 2025년 중등 직업교육 재학생 1,537.8만 명. 고등직업교육·비학위 훈련 등 포함 범위 차이로 직접적인 국가 규모·참여율 비교 금지. 각 나라의 공표 지표를 통해 해당 범위에서의 참여 규모 확인 및 동일 정의의 비교 자료 필요성 제시.",
+      "citation": "(National Bureau of Statistics of China, 2026; NCVER, 2026)"
+    },
+    {
+      "id": "28",
+      "section": "Ⅵ. 기술 전환",
+      "sec": 60,
+      "title": "디지털화·로보틱스와 훈련내용의 변화",
+      "type": "compare",
+      "content": [
+        "호주|2022년 RII21222|자율 작업장 운영 Certificate II / 데이터·기술 활용, 팀워크, 기능안전|등록 자격 및 평가 단위",
+        "중국|2025–2026년|758개 전문 교육기준 발표 / 휴머노이드 로봇·디지털트윈 관련 신전공 추가|직업교육 전공 및 기준의 조정"
+      ],
+      "claim": "신기술에 대응한 학습내용의 제도적 조정과 실제 수행 검증",
+      "sources": [
+        "rii",
+        "standards",
+        "cnrobot",
+        "jsa"
+      ],
+      "notes": "호주 국가훈련등록부 RII21222의 2022년 10월 19일 등록과 4개 필수·6개 선택 단위 확인. 자율 작업장 운영, 데이터와 기술 활용, 의사소통과 팀워크, 기능안전 포함. 중국 교육부 2025년 758개 전문 교육기준 발표와 2026년 7월 15일 27개 신전공 추가 발표에서 휴머노이드 로봇·디지털트윈 관련 신전공 확인. 자격·전공의 등록은 실제 과정 운영 및 학습성과와 구별. 생성형 AI의 노출·도입·적응 구별(JSA, 2025).",
+      "citation": "(Australian Government, 2022; Jobs and Skills Australia, 2025; Ministry of Education of the PRC, 2025; Ministry of Education of the PRC, 2026)"
+    },
+    {
+      "id": "29",
+      "section": "결론",
+      "sec": 55,
+      "title": "호주·중국 비교의 역사적 종합",
+      "type": "matrix",
+      "content": [
+        "형성|주·식민지 기술교육|양무운동·학제 개편",
+        "전후|공공 계속교육 접근|계획경제 산업훈련·교육체제 위축",
+        "재편|국가훈련체제·자격 인정|시장경제기 학교교육·직업교육법",
+        "교류|산업연계·역량기반 훈련|충칭 시범·현지화",
+        "최근|접근 지원·등록 자격|직업교육법·산학협력·전공 조정"
+      ],
+      "claim": "산업 수요와 개인의 학습 요구를 조정하는 제도의 역사적 변화",
+      "sources": [
+        "goozee",
+        "bowman",
+        "miao",
+        "misko05",
+        "icr",
+        "law22",
+        "nsag",
+        "cnrobot"
+      ],
+      "notes": "시기별로 비교한 증거의 종합. 호주 공공기술교육의 접근 확대와 국가훈련체제, 중국의 계획경제기 생산훈련에서 시장경제기 학교교육·기업협력의 재편. 2000년대 양국 협력의 실제 기록을 통한 상호 정책학습의 사례. 교육 목적·학습기회의 재편은 단선적 진보나 제도 우열의 증거가 아니며 각 국가 내부의 역사적 다양성 포함.",
+      "citation": "(Bowman & McKenna, 2016; Department of Employment and Workplace Relations, n.d.-a; Goozee, 2001; Miao, 2024; Ministry of Education of the PRC, 2026; Misko et al., 2005; Tippett & Simmons, 2007; Vocational Education Law of the PRC, 2022)"
+    },
+    {
+      "id": "30",
+      "section": "결론",
+      "sec": 55,
+      "title": "한국 산업인력개발사의 역사적 연구과제",
+      "type": "research",
+      "content": [
+        "과업 변화",
+        "설비 도입 기록·작업표준서·직무기술서의 시계열 대조",
+        "교육기회",
+        "훈련 대상·교육시간·비용·시설 및 교육과정의 변동",
+        "숙련 형성",
+        "평가 기록·훈련일지·작업자 면담의 교차 검증"
+      ],
+      "claim": "기술 변화 이후 새로운 학습기회의 형성과 실제 성과의 역사적 검증",
+      "sources": [
+        "kr",
+        "krnabo",
+        "adb",
+        "jsa",
+        "icr"
+      ],
+      "notes": "한국 1976년 직업훈련기본법의 산업 기능인력 양성과 근로자 지위향상, 1995년 고용보험 직업능력개발사업의 역사적 맥락. 철강 및 자동차 제조공정의 자동화 도입 이후 과업 변화·훈련기회·실제 숙련 형성의 자료 추적. 제도 목적, 재정과 접근, 참여와 숙련 형성의 별도 검증. 역사연구를 통한 현재 이해와 미래 교육훈련 조건의 탐구.",
+      "citation": "(Asian Development Bank, 2022; Jobs and Skills Australia, 2025; Tippett & Simmons, 2007; 국회예산정책처, 2025; 직업훈련기본법, 1976)"
+    },
+    {
+      "id": "31",
+      "section": "참고문헌",
+      "sec": 5,
+      "title": "주요 참고문헌",
+      "type": "refs",
+      "content": [],
+      "claim": "주요 근거의 APA 제7판 표기 및 발표 준비실 전체 서지 연계",
+      "sources": [
+        "goozee",
+        "bowman",
+        "yang",
+        "miao",
+        "misko02",
+        "misko05",
+        "adb",
+        "wb",
+        "auact",
+        "law96",
+        "law22",
+        "icr",
+        "jsa"
+      ],
+      "notes": "주요 역사연구·법령·공동연구·평가보고서의 서지사항 확인. 전체 참고문헌 및 사료별 접근 범위는 웹 발표 준비실과 근거대장 참조.",
+      "citation": "(Asian Development Bank, 2022; Bowman & McKenna, 2016; Goozee, 2001; Jobs and Skills Australia, 2025; Miao, 2024; Misko et al., 2002; Misko et al., 2005; Technical and Further Education Commission Act 1975 (Cth), s. 7; Tippett & Simmons, 2007; Vocational Education Law of the PRC, 1996; Vocational Education Law of the PRC, 2022; World Bank, 1987; Yang & Zheng, 2025)"
+    }
+  ]
+}
