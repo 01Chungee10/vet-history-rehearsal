@@ -15,3 +15,5 @@ button,input,select{font:inherit}button,a,select{touch-action:manipulation}butto
 .exhibit .shell{display:block;max-width:1440px}.exhibit .nav{display:none}.exhibit .slide{max-height:75vh;object-fit:contain}.exhibit .top{padding:12px 26px}.exhibit .top h1{font-size:22px}.exhibit .detail-area{display:none}.exhibit .claim{margin:8px 0}
 @media(max-width:850px){.shell{display:block;padding:18px 15px 45px}.nav{display:none}.headrow{align-items:flex-start}.controls{width:100%}.controls select{max-width:calc(100% - 150px)}.top{padding:18px}.top .action{gap:6px}.panel li{font-size:14px}}
 @media(prefers-color-scheme:dark){:root{color-scheme:light}}
+
+.speech p{font-size:1rem;line-height:1.8;margin:0 0 1.05em;word-break:keep-all;overflow-wrap:anywhere}.speech p:last-child{margin-bottom:0}
