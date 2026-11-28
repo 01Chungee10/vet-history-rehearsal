@@ -17,3 +17,5 @@ button,input,select{font:inherit}button,a,select{touch-action:manipulation}butto
 @media(prefers-color-scheme:dark){:root{color-scheme:light}}
 
 .speech p{font-size:1rem;line-height:1.8;margin:0 0 1.05em;word-break:keep-all;overflow-wrap:anywhere}.speech p:last-child{margin-bottom:0}
+
+.study-compact{border-top:1px solid #dce3da;margin:16px 0;padding:12px 0;color:inherit}.study-compact summary{font-weight:600;cursor:pointer}.study-compact p{line-height:1.7;font-size:.94rem}
